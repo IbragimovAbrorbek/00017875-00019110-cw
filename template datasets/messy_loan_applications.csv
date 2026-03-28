@@ -1,0 +1,1251 @@
+application_id,customer_id,customer_name,application_date,product_type,loan_amount,loan_term_months,interest_rate,annual_income,employment_status,application_status
+APP00633,CUST2460,Olivia Johnson,10-23-2023,Education Loan,,36,3.93,,Self-Employed,Pending
+APP00504,CUST2781,,2024/07/20,Car Loan,,36,6.01,112177,Employed,Under Review
+APP00079,CUST1779,Sophia Johnson,24/11/2025, Business Loan ,,48,8.93,76539,Student,Approved
+APP00822,CUST2632,,2025/01/28,Mortgage,,48,13.03,,Self-Employed,
+APP00408,CUST1285,Emma Brown,"March 02, 2024",Education Loan,74828,60,,,Employed, pending 
+APP00178,CUST2130,Michael Taylor,21/05/2025,Car Loan,25356,48,,60622,Self-Employed,
+APP00825,CUST2361,Olivia Taylor,07-03-2023,Mortgage,,36,6.61,101193, employed ,Rejected
+APP00427,CUST1883,Olivia Taylor,"April 09, 2024",Car Loan,,36,10.87,, employed ,Rejected
+APP00397,CUST1865,,16/03/2024,,52455,24,13.1,,Unemployed,approved
+APP00007,CUST1528,,06-03-2025,Mortgage,35826,36,8.81,49706,Employed, pending 
+APP00722,CUST1845,,03-04-2026,Mortgage,28023,12,,, employed ,Under Review
+APP00280,CUST1278,Olivia Brown,"March 30, 2025",personal loan,26156,36,,88767,Unemployed,Pending
+APP00890,CUST2942,Daniel Anderson,17-Mar-2025,personal loan,,60,,,Employed,Under Review
+APP00641,CUST1185,Daniel Smith,"September 03, 2025",Personal Loan,,,14.51,105946,,Under Review
+APP00275,CUST1311,Emma Brown,"August 02, 2023",Mortgage,34813,60,10.81,, employed ,Pending
+APP00141,CUST2356,Sophia Brown,07-28-2025,personal loan,,60,7.73,91465,Unemployed,Approved
+APP00688,CUST2216,,03/03/2025,personal loan,67500,36,13.43,98988,,Pending
+APP00388,CUST1449,Sophia Anderson,31-Oct-2024,Personal Loan,54835,36,7.36,,,Pending
+APP00735,CUST1622,,"August 06, 2025",Education Loan,67908,48,,89592,employed,approved
+APP00113,CUST2841,Sophia Taylor,"September 19, 2024",Mortgage,42847,24,,,Self-Employed,Rejected
+APP00673,CUST1271,John Johnson,2025/05/31, Business Loan ,21005,36,12.56,,employed,Approved
+APP00425,CUST2569,,2025-10-22,Car Loan,,12,,89978,Student, pending 
+APP00892,CUST1344,Sophia Anderson,06/01/2024,Mortgage,,36,,,employed,Under Review
+APP00100,CUST1665,,04/06/2025,Personal Loan,,36,9.17,51468,Unemployed,
+APP00052,CUST1162,,23/05/2024,Car Loan,,24,10.37,138738,Self-Employed, pending 
+APP00624,CUST1321,Sophia Smith,18/10/2023,,12677,48,,72031,employed,Rejected
+APP00476,CUST1038,,26/05/2025,Mortgage,69329,12,,, employed ,Rejected
+APP00112,CUST1080,Olivia Anderson,2026-01-26, Business Loan ,78326,24,,59735,employed,Pending
+APP00729,CUST2933,,28-Dec-2024,Car Loan,,60,,,Student,Approved
+APP00877,CUST2729,Emma Smith,"March 01, 2025",Personal Loan,31848,36,7.5,,Unemployed,approved
+APP00818,CUST2707,Sophia Anderson,18-Nov-2023,Education Loan,87783,48,,,Self-Employed,approved
+APP00625,CUST2115,,17/11/2023,personal loan,14463,,,67393,Unemployed,Pending
+APP00570,CUST2129,Emma Taylor,02-Aug-2023,Personal Loan,,48,13.06,, employed , pending 
+APP00324,CUST1282,John Anderson,2025/12/28,Education Loan,,48,11.28,,,
+APP00386,CUST1057,John Taylor,"February 04, 2025",Car Loan,92370,48,,,Employed, pending 
+APP00172,CUST1376,,23/10/2023,Mortgage,33298,60,11.48,138888,Employed,Rejected
+APP00738,CUST2620,Michael Anderson,2025/05/23,Education Loan,64307,48,,,employed,Pending
+APP00897,CUST2083,John Johnson,2025-03-10,Education Loan,,60,,,Employed,Under Review
+APP00225,CUST2055,,"December 18, 2025",Education Loan,41837,60,10.52,,Self-Employed,
+APP00608,CUST1092,Sophia Brown,03-24-2024,Education Loan,49768,24,,143634,Unemployed,Under Review
+APP00452,CUST2701,Emma Anderson,24-Aug-2023, Business Loan ,82093,24,,23004,Employed,Rejected
+APP00538,CUST1965,Sophia Smith,19-Nov-2025,Personal Loan,7758,60,,127915,,approved
+APP00233,CUST1309,,2025/01/24,personal loan,,24,4.01,132954,Student,approved
+APP00673,CUST1265,,17-Jan-2024,,5160,60,8.05,35086,Self-Employed,Approved
+APP00863,CUST2461,,"April 15, 2025",Mortgage,62534,36,,27631,employed,Approved
+APP00376,CUST1374,Michael Brown,31/01/2025,Mortgage,,24,8.11,26876,employed,
+APP00255,CUST1936,,28/12/2024,personal loan,17954,,3.56,, employed ,Pending
+APP00482,CUST2221,Olivia Taylor,2024/10/12, Business Loan ,68710,60,8.04,,Self-Employed,Approved
+APP00420,CUST1750,Michael Anderson,23-Jul-2024,Personal Loan,53320,24,6.33,,employed, pending 
+APP00291,CUST2911,Olivia Taylor,04-10-2024,personal loan,,60,7.24,69660,Unemployed,Pending
+APP00263,CUST2803,Daniel Brown,30-Mar-2025,Mortgage,5242,12,,84710,Student,Approved
+APP00439,CUST1448,John Smith,12-Jul-2025,Mortgage,9144,36,,147591,Employed,
+APP00187,CUST1276,Emma Anderson,2023-12-14, Business Loan ,,,8.91,,Unemployed,Approved
+APP00049,CUST1660,,"July 26, 2025",personal loan,18973,60,12.24,83442,Unemployed,Pending
+APP00641,CUST1421,Emma Smith,11-Oct-2024,Personal Loan,70847,24,12.8,,Unemployed, pending 
+APP00398,CUST2530,Emma Taylor,"January 25, 2024",,25655,,10.94,147392,Unemployed, pending 
+APP00855,CUST1226,John Smith,27-Dec-2023,,,12,,,Employed, pending 
+APP00265,CUST1709,Olivia Taylor,2026-02-01,,,12,,, employed ,Pending
+APP00796,CUST1754,,02/08/2024,Personal Loan,16339,12,,, employed ,Under Review
+APP00270,CUST2512,Sophia Anderson,2023/11/15,Mortgage,,12,,,Self-Employed,Rejected
+APP00739,CUST2032,Michael Brown,23-Oct-2023,Car Loan,,24,12.82,,employed,Pending
+APP00718,CUST1551,Michael Smith,12-Apr-2024,,30326,48,,24307, employed ,Under Review
+APP00152,CUST1000,John Brown,17-Nov-2025, Business Loan ,,36,14.51,103306,Student,Pending
+APP00180,CUST2190,,18-Dec-2024,Car Loan,,36,8.75,36240, employed ,Pending
+APP00472,CUST2999,Olivia Smith,2024-07-28,Personal Loan,10557,36,13.71,117363,Unemployed,Pending
+APP00720,CUST2342,John Johnson,"July 17, 2023",Mortgage,24617,60,,103424,Employed,Pending
+APP00746,CUST2836,John Johnson,2023/10/21,Personal Loan,59877,48,8.24,,,Under Review
+APP00048,CUST2817,Daniel Taylor,03-Oct-2024,Car Loan,,12,,,Self-Employed,
+APP00003,CUST2377,,2024/06/06,,57207,36,7.89,130871,Employed,Under Review
+APP00360,CUST1509,Olivia Anderson,07-09-2024,Car Loan,44392,,,26556,Employed, pending 
+APP00604,CUST1041,John Anderson,06-08-2024,Education Loan,,12,,129088,Unemployed,Approved
+APP00826,CUST1377,Emma Johnson,07/11/2024,,14013,,,141168,Unemployed,
+APP00497,CUST2090,Michael Smith,06/03/2024,Car Loan,,36,13.65,,Student, pending 
+APP00319,CUST1409,Olivia Smith,07-25-2023,Education Loan,,48,11.77,21663, employed ,Under Review
+APP00353,CUST1379,John Anderson,24-Jun-2025,Personal Loan,,,9.84,45253, employed ,Approved
+APP00423,CUST1848,Emma Brown,2023/11/04,Personal Loan,52040,36,14.84,50530,employed, pending 
+APP00744,CUST2134,Michael Smith,2024-08-05,,,,,,Student,Under Review
+APP00485,CUST2655,Sophia Taylor,2025-02-20, Business Loan ,,,,85302,Student,Under Review
+APP00202,CUST2549,,11/12/2023,Education Loan,30575,60,12.13,142704,Employed,Under Review
+APP00406,CUST1397,Olivia Anderson,"October 19, 2023",Mortgage,55349,12,,,Unemployed,Approved
+APP00185,CUST2376,Daniel Anderson,"August 17, 2024",Education Loan,76974,48,13.3,137600,,Approved
+APP00273,CUST2249,,05/10/2025,Car Loan,,,,63706, employed , pending 
+APP00602,CUST1318,Olivia Brown,12-Jan-2026,,68550,36,7.73,,Self-Employed,approved
+APP00252,CUST1927,Michael Johnson,21/01/2026,Mortgage,38257,,,29860,Student,
+APP00729,CUST2007,,2023/11/04,Mortgage,18523,36,,,Unemployed, pending 
+APP00335,CUST2356,,"June 11, 2025",Mortgage,,36,3.69,126000,Unemployed, pending 
+APP00342,CUST1236,,"October 10, 2024",,,60,,,Self-Employed,Approved
+APP00889,CUST2009,Michael Taylor,05-29-2024,,42093,48,,,, pending 
+APP00204,CUST1428,Emma Smith,10-15-2025,Education Loan,34483,,14.97,,, pending 
+APP00860,CUST2405,,2023/09/28,personal loan,,,,25693,Unemployed,Pending
+APP00371,CUST1004,,27-Aug-2024,Education Loan,76023,36,,64918,employed,Rejected
+APP00615,CUST2303,Daniel Brown,29-Jan-2026,,20748,60,8.21,,,Pending
+APP00038,CUST1070,,06-19-2025,,,,,,employed,Under Review
+APP00340,CUST2727,Michael Taylor,2023-12-20,personal loan,59082,12,9.08,124787,Employed,Rejected
+APP00067,CUST1378,Michael Johnson,"February 01, 2025",,16149,60,,73104, employed ,approved
+APP00339,CUST2314,Emma Taylor,2023/07/17,Education Loan,,12,,,employed,Under Review
+APP00578,CUST1492,Emma Taylor,2025/12/17,Education Loan,,36,,,Student, pending 
+APP00373,CUST1651,Daniel Smith,"July 21, 2024",Personal Loan,,60,10.59,41439,Student,Under Review
+APP00880,CUST2582,John Taylor,11-24-2024,Mortgage,95759,12,,35872,,Pending
+APP00566,CUST1571,Daniel Brown,29-Aug-2024,Education Loan,59299,48,13.22,,,approved
+APP00516,CUST2810,Sophia Johnson,"November 29, 2024",,86152,60,5.33,143646, employed ,
+APP00566,CUST1726,,2025-03-27,Car Loan,35770,60,4.74,27655,Unemployed,Approved
+APP00465,CUST1215,Michael Johnson,12-04-2024,personal loan,66761,36,8.1,,employed,Under Review
+APP00095,CUST1393,Olivia Anderson,22/03/2026,Personal Loan,6092,60,4.11,,Self-Employed, pending 
+APP00310,CUST1043,,28/07/2023,Personal Loan,63651,12,14.17,60905,employed,Rejected
+APP00623,CUST2773,Michael Brown,11-22-2023,Personal Loan,51858,12,8.62,115532,Self-Employed,Approved
+APP00083,CUST1662,Olivia Johnson,16/04/2024,Education Loan,18599,60,,,Employed,Pending
+APP00668,CUST1262,,2024-10-10,Mortgage,,,6.65,,Unemployed,Approved
+APP00001,CUST1425,John Johnson,18/09/2023,personal loan,99557,,,100357, employed ,Under Review
+APP00161,CUST1737,Emma Taylor,2025/03/12,Mortgage,33573,48,,47936,Employed,approved
+APP00090,CUST2222,Olivia Johnson,07-23-2024,Mortgage,36060,12,,,Employed,Under Review
+APP00049,CUST1339,Olivia Smith,17-Oct-2024,personal loan,,36,7.16,, employed ,Pending
+APP00501,CUST2159,Olivia Brown,05/05/2025,,,36,5.15,,,
+APP00677,CUST2357,,02/03/2026,Mortgage,,48,,92665,Student,Pending
+APP00554,CUST2226,Olivia Taylor,06-06-2024, Business Loan ,,12,,98489,Self-Employed,approved
+APP00582,CUST1663,Daniel Johnson,06-Feb-2025,Personal Loan,40196,12,,,Unemployed,Pending
+APP00684,CUST2371,Olivia Brown,22-Jul-2025,personal loan,26090,36,14.79,107186,Self-Employed,Pending
+APP00889,CUST2276,Olivia Brown,07-25-2024,Education Loan,52546,,3.53,, employed ,
+APP00837,CUST2861,,09/10/2025,personal loan,,12,,,employed,
+APP00570,CUST1923,Olivia Anderson,14/02/2026,Car Loan,93534,,,40084,employed, pending 
+APP00553,CUST2930,,07/11/2023,Education Loan,19786,24,14.36,,Employed,Approved
+APP00047,CUST1950,,03/07/2025,Education Loan,47969,48,4.66,,Self-Employed,Approved
+APP00486,CUST2516,,"December 26, 2024",Mortgage,,36,,,Self-Employed, pending 
+APP00243,CUST2116,John Smith,02-28-2026,personal loan,6994,,,81785,Unemployed,approved
+APP00206,CUST1840,Emma Johnson,2023/08/16, Business Loan ,55121,24,,,employed, pending 
+APP00325,CUST2726,,"September 15, 2023",,,,,65534,Student,approved
+APP00398,CUST1987,Daniel Brown,"December 10, 2024",Car Loan,,36,11.62,,,Pending
+APP00739,CUST2112,Emma Anderson,11/04/2025,Mortgage,,60,,132022, employed ,Approved
+APP00374,CUST1650,Olivia Taylor,09-22-2025,Education Loan,32241,,,,Employed,Pending
+APP00720,CUST2105,Emma Smith,26/06/2025,personal loan,,24,14.46,,Student,Under Review
+APP00738,CUST2853,Olivia Smith,2025/10/09,Mortgage,33899,12,,38441,,Rejected
+APP00345,CUST2642,,2025/06/13,Education Loan,25232,,,,Self-Employed, pending 
+APP00456,CUST1943,,09/02/2025,personal loan,97075,60,4.44,,Unemployed,
+APP00714,CUST2644,,14/08/2024,Personal Loan,44964,12,10.52,,employed,Approved
+APP00201,CUST2317,John Johnson,2023/12/13,Education Loan,,36,,38604,,
+APP00492,CUST2764,Sophia Anderson,08-12-2025,Education Loan,26229,12,,,Employed,Pending
+APP00641,CUST1465,,08-21-2025,Personal Loan,,48,,130091,employed, pending 
+APP00113,CUST2443,,27/06/2025,,12154,24,,,,Under Review
+APP00853,CUST2864,Sophia Anderson,28/05/2025,personal loan,47733,36,9.11,,Unemployed,
+APP00561,CUST1935,Emma Anderson,"November 15, 2023", Business Loan ,,60,,81323,Student,approved
+APP00600,CUST2399,Emma Smith,2024-01-07,personal loan,,12,13.34,59219,Self-Employed, pending 
+APP00206,CUST2688,,09-16-2023,Mortgage,,48,,,,Under Review
+APP00869,CUST2419,John Taylor,05/12/2025,Personal Loan,45245,48,9.08,, employed ,Pending
+APP00804,CUST1887,Sophia Brown,2023/12/13,Personal Loan,9391,24,12.86,44318, employed ,Rejected
+APP00503,CUST2820,John Brown,2026/01/26,Education Loan,,48,,126109,employed,Pending
+APP00115,CUST2950,Emma Anderson,29/10/2024,Mortgage,41309,60,11.55,86817,Self-Employed,Approved
+APP00400,CUST2044,Olivia Smith,23/12/2024,Education Loan,,24,,115727, employed ,approved
+APP00652,CUST2521,Sophia Smith,28-Aug-2023,personal loan,75047,24,,53727,employed,
+APP00405,CUST2994,Emma Brown,2025-09-20,Education Loan,26275,,5.6,,Employed,Pending
+APP00133,CUST2580,,10-15-2023,Education Loan,,48,,,Student,
+APP00154,CUST1412,Sophia Brown,09-05-2025,Mortgage,58941,48,,37515,Student,Approved
+APP00871,CUST1137,Sophia Taylor,07-18-2023,Car Loan,,60,,132779,,Approved
+APP00545,CUST2411,Sophia Anderson,"August 11, 2025",personal loan,26369,60,,,Student,Approved
+APP00766,CUST1948,Daniel Anderson,03-27-2024,Mortgage,,48,10.42,63983,,
+APP00513,CUST1133,Michael Anderson,2025-11-15,Education Loan,,24,11.7,108107,Student,Pending
+APP00730,CUST2879,Sophia Brown,"February 25, 2026",Car Loan,88169,36,,,Employed,Rejected
+APP00643,CUST2735,,"October 31, 2024",Car Loan,,60,,116379, employed ,Under Review
+APP00197,CUST1572,John Anderson,06-May-2024,Personal Loan,59213,36,12.8,43701,Unemployed,
+APP00087,CUST1988,Daniel Anderson,10-Mar-2024,personal loan,79724,60,7.94,,Unemployed, pending 
+APP00395,CUST1866,Sophia Brown,05-Nov-2024,,97982,24,,,Employed,Approved
+APP00882,CUST2989,Michael Johnson,23/12/2024,Education Loan,,,4.11,, employed ,Under Review
+APP00535,CUST1479,Emma Smith,16/01/2024,personal loan,99543,48,,, employed ,Pending
+APP00471,CUST1832,John Johnson,2025-10-18,Education Loan,67045,12,7.21,,Self-Employed,Approved
+APP00292,CUST1970,Sophia Taylor,"October 02, 2025",Mortgage,63130,60,12.33,,Self-Employed,Pending
+APP00582,CUST1286,John Johnson,"March 16, 2025",Car Loan,10310,36,8.51,135258, employed ,approved
+APP00611,CUST1606,Sophia Anderson,2023/08/21,,18032,12,13.21,,Unemployed,Rejected
+APP00291,CUST2618,John Smith,2023/07/18,Mortgage,,36,,, employed , pending 
+APP00502,CUST2662,Sophia Taylor,10-09-2024,Personal Loan,,48,,96807,Self-Employed,Rejected
+APP00462,CUST2789,Daniel Taylor,28-Sep-2024,Mortgage,29274,60,,,Student,approved
+APP00666,CUST1454,,10-30-2023,Car Loan,,60,,99524,Employed, pending 
+APP00514,CUST2423,John Johnson,15-Mar-2024,personal loan,27625,,3.9,,Unemployed,Pending
+APP00617,CUST2063,Daniel Johnson,2025/05/13,,,36,9.86,20264,,Approved
+APP00821,CUST1270,John Smith,"February 19, 2024",Education Loan,99075,,,,Self-Employed,approved
+APP00457,CUST1546,,16/01/2026,,,12,,29904,employed,Rejected
+APP00440,CUST1516,Sophia Brown,08-09-2024,Car Loan,,12,,,Self-Employed,approved
+APP00460,CUST2495,,05/07/2024,Mortgage,,60,,,Self-Employed,approved
+APP00702,CUST2326,,2025-07-02,Mortgage,,36,9.69,,Employed,Approved
+APP00344,CUST2008,Olivia Johnson,27/12/2023,Education Loan,43303,60,7.41,, employed ,Under Review
+APP00533,CUST1690,Emma Brown,12/01/2025,Personal Loan,,12,8.78,97035,Employed,Rejected
+APP00777,CUST1317,Daniel Brown,2024-05-29,Car Loan,,12,,,Unemployed,approved
+APP00669,CUST2383,,29-Aug-2023,Education Loan,,60,8.35,,Self-Employed,Pending
+APP00321,CUST1419,Michael Smith,2023/12/12,Education Loan,87368,60,,41536,,Approved
+APP00301,CUST1628,Sophia Brown,2025-02-04, Business Loan ,,12,,,Student, pending 
+APP00060,CUST2747,,15-Jul-2023,Mortgage,78464,12,,66666, employed ,Approved
+APP00806,CUST1469,Daniel Brown,02-09-2026,,13088,48,,,Self-Employed, pending 
+APP00725,CUST1531,,22/04/2025, Business Loan ,83465,12,12.2,134919, employed ,Pending
+APP00258,CUST1451,Emma Taylor,01-Feb-2025, Business Loan ,,48,,,employed,Pending
+APP00098,CUST2436,John Smith,29-Feb-2024,,68021,48,13.43,114345,employed,Rejected
+APP00281,CUST2814,Daniel Anderson,01-08-2025,Mortgage,12998,12,3.61,133452,,
+APP00440,CUST2266,Michael Brown,08-13-2025, Business Loan ,12947,12,12.8,105602,Self-Employed,
+APP00322,CUST1805,John Brown,04-16-2025,personal loan,,48,,, employed ,Pending
+APP00577,CUST2188,,02-05-2024,Education Loan,41842,24,13.48,,,Pending
+APP00162,CUST1934,Emma Smith,2026-02-13,Education Loan,75848,36,6.64,,,Rejected
+APP00824,CUST2206,Emma Johnson,2025-03-19,Car Loan,32750,24,14.77,,Employed, pending 
+APP00504,CUST1063,John Smith,05/09/2023,Personal Loan,41987,36,,,Unemployed,Pending
+APP00260,CUST1490,,2023/08/30,Mortgage,,,,,Unemployed,Rejected
+APP00354,CUST1488,John Smith,14/09/2024,Mortgage,57239,60,5.91,84507, employed ,
+APP00708,CUST1196,,2025/12/10,personal loan,13298,60,,43522,Student,Under Review
+APP00336,CUST2784,,10-Aug-2024,Personal Loan,47479,24,,,Unemployed,Pending
+APP00349,CUST1886,Daniel Brown,09-Oct-2024,Personal Loan,39287,24,13.98,36863,, pending 
+APP00090,CUST2576,Emma Taylor,07-31-2025, Business Loan ,45720,12,,,Student,Approved
+APP00038,CUST2129,Sophia Johnson,22/08/2025,Mortgage,66645,48,4.74,144617,,Rejected
+APP00752,CUST1409,Daniel Brown,2025-05-12,personal loan,,24,,53846, employed ,approved
+APP00106,CUST1707,Daniel Smith,"August 03, 2023", Business Loan ,,24,,,Unemployed,Approved
+APP00031,CUST2509,Emma Johnson,"November 26, 2025",Mortgage,85375,48,,143001,Student,Pending
+APP00203,CUST2410,John Johnson,08-20-2025,,90843,,,,Unemployed,approved
+APP00413,CUST1216,Emma Anderson,09-Jul-2023,,53769,36,,81099,Employed,approved
+APP00431,CUST1123,Michael Johnson,"March 17, 2025",,39492,60,,142319, employed ,Rejected
+APP00186,CUST1679,,01-11-2026,Education Loan,,12,,116167,,Approved
+APP00766,CUST2896,Sophia Brown,2025/01/16,,,48,7.84,133133, employed ,
+APP00861,CUST1837,,"August 06, 2025",Mortgage,87713,60,6.18,48011,Self-Employed,approved
+APP00210,CUST1390,Emma Smith,2024-04-12,Education Loan,57169,36,,,Student,Pending
+APP00377,CUST2411,John Taylor,"March 16, 2026",Mortgage,99357,60,,106408,employed,Pending
+APP00683,CUST2001,,"October 12, 2025",,64274,12,,,,
+APP00829,CUST1229,,16/12/2023,Car Loan,,24,,,Student,Approved
+APP00494,CUST2421,Olivia Anderson,"September 14, 2023", Business Loan ,,60,14.19,142908,Unemployed,Under Review
+APP00493,CUST2211,Daniel Brown,09/10/2024, Business Loan ,,36,,72704,Unemployed,Rejected
+APP00857,CUST1876,,2025-05-11,Personal Loan,,36,4.81,70104,Unemployed,Pending
+APP00174,CUST1145,Emma Anderson,01/06/2025,personal loan,63423,36,,,, pending 
+APP00218,CUST1390,,07-Aug-2024,,52145,,14.76,,Employed,Pending
+APP00180,CUST1164,,27/12/2023,personal loan,,60,,64766,employed,Under Review
+APP00653,CUST2151,,2025/09/12,Personal Loan,,24,10.01,70467,Student,Pending
+APP00749,CUST1626,,2024/06/27, Business Loan ,,,,,Unemployed,
+APP00031,CUST2666,Michael Johnson,01-08-2026,,,,,65796,,Pending
+APP00449,CUST1228,,"July 11, 2023",Car Loan,39668,48,,47937,Self-Employed, pending 
+APP00781,CUST1297,,20-May-2024,personal loan,,60,,, employed ,Approved
+APP00108,CUST2338,,2023-09-05,Education Loan,,60,6.01,117959,employed,Pending
+APP00067,CUST1041,Michael Anderson,2023-08-14,Education Loan,83091,,,,Unemployed,approved
+APP00804,CUST2107,Daniel Anderson,03/12/2025,Car Loan,,12,6.73,,Employed, pending 
+APP00867,CUST1779,Emma Anderson,10-31-2023,Personal Loan,,24,12.11,,Student,
+APP00196,CUST1974,Michael Smith,05/11/2025,,,12,13.03,,,Approved
+APP00144,CUST1945,Michael Taylor,2024-03-19,personal loan,52392,24,7.39,,Student,Approved
+APP00279,CUST1359,,11-Feb-2024,Personal Loan,,12,,40263,Unemployed, pending 
+APP00891,CUST2534,,20/03/2025,personal loan,,36,6.94,114962,Self-Employed, pending 
+APP00124,CUST1885,,09-Sep-2023,,,60,,, employed ,Pending
+APP00064,CUST1592,Michael Brown,2024/03/10,Education Loan,24340,,,,employed,Approved
+APP00605,CUST2795,John Taylor,05-03-2024,,35497,12,,,Employed, pending 
+APP00010,CUST2924,,2025-08-13,Education Loan,,,,145384,employed,Under Review
+APP00296,CUST1760,,11-07-2025,Personal Loan,51843,48,,124106,Employed,Approved
+APP00200,CUST1263,,28/09/2023,Car Loan,30399,12,7.33,,employed,Rejected
+APP00688,CUST2905,Michael Smith,11-09-2023,Car Loan,76959,60,,20514,employed,Approved
+APP00685,CUST1888,,24-Sep-2024,Personal Loan,,24,14.12,131530,,Rejected
+APP00675,CUST1932,,2025/06/09,,68666,12,,68418,,
+APP00440,CUST1160,,2023/11/26,Mortgage,40044,48,,44209,employed,Approved
+APP00859,CUST2810,Olivia Anderson,11-07-2025,Education Loan,30632,24,14.97,23850, employed ,Pending
+APP00597,CUST2429,John Taylor,2025-07-23,,,12,7.17,,Unemployed, pending 
+APP00789,CUST1228,John Smith,2025-11-30,,,,12.46,,Self-Employed,Pending
+APP00092,CUST2590,Daniel Johnson,11-06-2025, Business Loan ,79656,24,4.32,,Student, pending 
+APP00226,CUST1256,Michael Anderson,"January 11, 2026", Business Loan ,,60,,58230,Self-Employed,Under Review
+APP00515,CUST1240,Daniel Brown,"January 10, 2026",Mortgage,86987,24,,, employed ,Pending
+APP00019,CUST1370,Emma Taylor,21/02/2025,Mortgage,,24,12.71,,,
+APP00165,CUST1430,Emma Anderson,02-24-2026,Personal Loan,36593,60,5.52,34895, employed ,Rejected
+APP00584,CUST1116,,"September 03, 2024",Car Loan,,48,,41272,,Rejected
+APP00334,CUST1886,Emma Taylor,"January 26, 2026",,,60,,,Self-Employed,
+APP00400,CUST1451,Emma Brown,2025-09-16,Education Loan,,36,10.86,60855,Unemployed,Approved
+APP00649,CUST2709,,11-28-2025, Business Loan ,,,8.62,80347,Student,Rejected
+APP00399,CUST1751,Emma Taylor,12-Mar-2026,Education Loan,54897,24,,85696,Self-Employed,approved
+APP00766,CUST1973,Sophia Anderson,"April 03, 2024",Education Loan,44885,48,,81371,employed,Under Review
+APP00670,CUST2553,Michael Smith,"April 18, 2024",Car Loan,50711,36,4.81,23617,employed,
+APP00622,CUST1273,Olivia Taylor,09-30-2024,personal loan,88074,12,5.72,,,
+APP00794,CUST2138,,2023-07-27,Mortgage,11086,12,6.73,,employed, pending 
+APP00245,CUST2601,Daniel Brown,15/04/2025,Personal Loan,,48,13.01,31430, employed ,approved
+APP00434,CUST1626,Olivia Brown,"April 01, 2025",Mortgage,,,,,employed,Rejected
+APP00329,CUST2637,,2025/02/03,Car Loan,55839,12,14.86,47933, employed , pending 
+APP00725,CUST1430,Emma Johnson,"May 27, 2025",personal loan,,24,,74212,Self-Employed,Pending
+APP00824,CUST2112,Sophia Taylor,07-02-2025,Personal Loan,39098,12,,,employed,
+APP00081,CUST2329,Sophia Smith,"January 23, 2024",Car Loan,55195,36,9.81,,Student,Pending
+APP00804,CUST1325,Emma Taylor,"December 19, 2025",Personal Loan,44125,12,13.42,119259,Student,
+APP00640,CUST2369,John Anderson,2025-07-29,Personal Loan,15335,60,,104602,Unemployed,Rejected
+APP00180,CUST2702,Olivia Taylor,09-29-2024,Car Loan,62270,48,4.33,,Unemployed,Pending
+APP00754,CUST2772,Emma Brown,05-01-2024,personal loan,,12,,101481,Employed,approved
+APP00009,CUST2203,,2023/10/30,personal loan,,12,,,Unemployed,approved
+APP00449,CUST1709,,08-17-2024,personal loan,71562,36,6.86,149101, employed ,
+APP00543,CUST2570,Emma Smith,"September 06, 2023",Education Loan,43385,,3.77,,employed,Pending
+APP00338,CUST2536,Daniel Smith,2025-02-08,personal loan,62505,12,,,,
+APP00009,CUST2978,John Anderson,2026/02/24,Education Loan,,36,,, employed ,approved
+APP00775,CUST2991,John Smith,2026/02/10,personal loan,13153,24,,73504, employed ,Pending
+APP00821,CUST1357,Sophia Smith,04-23-2024,,,12,6.74,78280, employed , pending 
+APP00336,CUST2683,John Anderson,2025/05/27,personal loan,17277,60,13.72,144935,Employed,Approved
+APP00505,CUST1036,,06-03-2024,Personal Loan,23770,60,11.42,,Unemployed, pending 
+APP00405,CUST1567,,29/07/2024, Business Loan ,81390,12,8.34,79088,Self-Employed,Pending
+APP00818,CUST1086,,"March 21, 2024", Business Loan ,42592,36,,116310,Employed,approved
+APP00625,CUST1955,Daniel Smith,2024/08/23,Car Loan,26062,24,6.55,141881,, pending 
+APP00364,CUST2561,Sophia Anderson,02-27-2026,personal loan,66811,36,10.28,,Employed,Approved
+APP00499,CUST2285,John Brown,07-03-2024,Mortgage,76275,48,8.69,61300,employed,
+APP00650,CUST1265,,27-Mar-2025,Mortgage,98869,60,13.4,,Employed,Rejected
+APP00773,CUST2656,,24-Feb-2024,Car Loan,88657,48,,82562,employed,
+APP00184,CUST1295,Sophia Brown,2023-09-14,Car Loan,61171,,9.52,138126,employed, pending 
+APP00747,CUST2732,John Taylor,2026-01-10,Personal Loan,,,11.05,,Student,Under Review
+APP00537,CUST2727,Michael Taylor,05-Nov-2023,,86518,,,,employed,Rejected
+APP00693,CUST2756,,2024/01/18,Personal Loan,38558,24,,76846, employed ,Pending
+APP00125,CUST1784,Emma Smith,26-Aug-2024,Car Loan,94325,24,6.08,,Unemployed,
+APP00541,CUST1833,John Smith,23/12/2024,personal loan,20908,36,,37846,employed, pending 
+APP00333,CUST2897,Michael Smith,"February 28, 2026",Mortgage,28050,24,,,Employed,Pending
+APP00065,CUST2299,Daniel Smith,02-15-2026,Personal Loan,,36,5.54,88624,Student,Approved
+APP00364,CUST1936,,2024-06-17,Personal Loan,,24,8.17,,Student,
+APP00732,CUST2464,,"March 15, 2024",Personal Loan,37689,12,14.75,,employed,Approved
+APP00544,CUST1291,Daniel Johnson,"July 05, 2024",Mortgage,,36,10.53,,, pending 
+APP00025,CUST2862,John Smith,04/12/2024,,,12,,,Student,Approved
+APP00430,CUST1999,Sophia Smith,2024-09-20,Mortgage,,48,7.5,,Self-Employed,Rejected
+APP00803,CUST1050,John Anderson,27/03/2025,Car Loan,26964,36,,,,Pending
+APP00316,CUST1374,,2024/03/03, Business Loan ,,,4.19,,,Pending
+APP00887,CUST1909,Emma Anderson,09-08-2023, Business Loan ,31633,60,4.0,,Student,Under Review
+APP00511,CUST1940,Daniel Brown,2023-12-20,personal loan,,,,122123, employed , pending 
+APP00384,CUST2673,,"March 10, 2024",Personal Loan,46846,24,9.62,,Employed,
+APP00184,CUST1451,John Smith,2025/10/19, Business Loan ,,12,7.76,140846,Unemployed,Rejected
+APP00122,CUST1318,John Anderson,2023-08-09,Mortgage,33743,60,,31767, employed ,Approved
+APP00491,CUST1082,Olivia Brown,03-May-2025,Mortgage,,24,11.82,,Unemployed,approved
+APP00020,CUST1729,Olivia Anderson,2023/12/09,,,36,,83188,Student,Approved
+APP00355,CUST1542,,10-07-2024,Education Loan,,48,,62106,Student,Approved
+APP00349,CUST1722,Daniel Taylor,11-Mar-2025, Business Loan ,,60,8.41,,Unemployed,Under Review
+APP00239,CUST1656,Olivia Anderson,"November 24, 2024",Education Loan,,,,53662,Student,Rejected
+APP00487,CUST2141,John Taylor,22/06/2025,personal loan,,60,,, employed ,Rejected
+APP00418,CUST2099,Emma Anderson,05-13-2024,Mortgage,31915,,14.03,,Unemployed,Pending
+APP00504,CUST2776,Sophia Taylor,"July 20, 2024", Business Loan ,46404,,,,Student,approved
+APP00266,CUST1800,,01-06-2025,personal loan,87170,24,,73473,Student,Approved
+APP00833,CUST1171,Sophia Anderson,11-25-2023,Mortgage,94236,,10.95,34049,Student,Under Review
+APP00271,CUST1410,,2025/08/08,personal loan,49287,60,14.94,138599,Student,Under Review
+APP00651,CUST2605,Daniel Anderson,10-May-2025,Mortgage,,60,,140789,Employed,
+APP00279,CUST2286,Olivia Taylor,"December 04, 2023",personal loan,51206,60,,,,Under Review
+APP00682,CUST1073,,2025-03-28,Car Loan,,36,5.31,86500,Unemployed,Pending
+APP00298,CUST2308,,07-05-2024,Car Loan,22939,48,5.47,140813,Student, pending 
+APP00487,CUST2233,John Smith,"April 14, 2025",Personal Loan,39380,,10.97,26516,Student,approved
+APP00822,CUST2993,,"February 12, 2025",personal loan,5812,,6.08,,,Approved
+APP00208,CUST2151,Daniel Smith,02-25-2024,Education Loan,,12,,,Unemployed,Pending
+APP00222,CUST1492,Michael Johnson,05-12-2024, Business Loan ,,48,,,Self-Employed,Rejected
+APP00115,CUST2734,,2026/02/25,Car Loan,,36,,,employed,
+APP00011,CUST1159,Michael Brown,2023/08/27,Education Loan,74460,12,,147598, employed ,Under Review
+APP00704,CUST2397,Daniel Smith,2023/11/21,personal loan,,12,,,Student,Approved
+APP00873,CUST1863,Sophia Taylor,14-Feb-2024,Personal Loan,,12,,,,approved
+APP00675,CUST2345,Daniel Anderson,2024-11-13,Mortgage,,12,,126842,Self-Employed,Pending
+APP00566,CUST2564,Daniel Smith,2024/01/14,,,12,11.5,74787,Unemployed,
+APP00042,CUST1534,Daniel Brown,05-13-2024, Business Loan ,73945,48,14.02,,Self-Employed,
+APP00477,CUST1047,,29-Aug-2024,personal loan,94133,60,4.35,48644, employed ,
+APP00332,CUST2790,Michael Brown,2024-11-26, Business Loan ,,24,,,employed,
+APP00869,CUST1061,Emma Brown,26/01/2024,personal loan,28325,36,,, employed , pending 
+APP00319,CUST2621,Emma Brown,2023/08/06,Personal Loan,16170,60,,,Unemployed, pending 
+APP00265,CUST1993,,"March 15, 2026",Mortgage,,,,,Employed,approved
+APP00706,CUST1183,,2025/07/26,Education Loan,,60,,,Employed,Pending
+APP00166,CUST2656,Michael Johnson,01-28-2026,Personal Loan,55667,,,40767,employed, pending 
+APP00247,CUST2790,Michael Johnson,13/01/2024,Education Loan,,,,,Employed,Rejected
+APP00840,CUST2028,Michael Johnson,2024/11/01,Car Loan,,24,9.95,,Self-Employed,Under Review
+APP00036,CUST1365,Sophia Johnson,10-06-2023,personal loan,,,,,Unemployed,approved
+APP00566,CUST1579,Emma Anderson,28/10/2024, Business Loan ,,48,12.62,,Self-Employed,approved
+APP00206,CUST1695,Daniel Anderson,2026/03/04,Mortgage,97779,60,11.64,68769,Unemployed,
+APP00107,CUST2800,,13/09/2024,personal loan,,60,11.25,54486,,
+APP00412,CUST1484,Sophia Smith,05/10/2023, Business Loan ,,24,12.17,, employed ,approved
+APP00884,CUST2660,Emma Brown,06-Apr-2024, Business Loan ,,,,,Unemployed,
+APP00049,CUST2043,John Johnson,2025/04/30,,,,6.31,,,Pending
+APP00281,CUST2654,,15-Sep-2025,personal loan,22606,48,4.31,86568,,Under Review
+APP00406,CUST1310,Olivia Anderson,2023/10/29,,36966,,5.31,45872,Self-Employed,Pending
+APP00814,CUST2815,Emma Taylor,02/08/2024,,86835,48,7.12,131757,Student,approved
+APP00447,CUST1302,Daniel Taylor,"March 06, 2026",,65126,48,7.7,122034,Employed,Under Review
+APP00377,CUST2839,Olivia Smith,2025-08-22, Business Loan ,27387,24,,84375,Self-Employed,Approved
+APP00765,CUST1739,Olivia Johnson,14-Aug-2024,personal loan,,,,,, pending 
+APP00025,CUST2333,,02-26-2026,Education Loan,,48,,,,Approved
+APP00741,CUST1100,,2023/08/08, Business Loan ,,60,6.76,,Student, pending 
+APP00723,CUST2696,Michael Taylor,17/01/2025, Business Loan ,70551,60,14.94,,Student,Under Review
+APP00173,CUST1095,,2025-07-26,Car Loan,62443,60,,90968,Student,
+APP00190,CUST2494,,24/11/2025,Education Loan,17403,36,,,Unemployed,Rejected
+APP00057,CUST2595,Michael Taylor,10-Sep-2023,Personal Loan,65763,60,,62599,Student,Pending
+APP00163,CUST1889,Emma Anderson,2024/05/19, Business Loan ,29926,60,,,Self-Employed,approved
+APP00182,CUST2415,Sophia Brown,2023/09/25,Mortgage,86777,48,,, employed ,Under Review
+APP00635,CUST1525,Sophia Brown,"July 17, 2024",Car Loan,79141,60,5.67,39885,Student,Approved
+APP00473,CUST2501,,2024-05-13,personal loan,,48,9.67,116252,Employed, pending 
+APP00320,CUST2746,Daniel Anderson,09/09/2024,Personal Loan,42545,12,,,Self-Employed,Under Review
+APP00104,CUST2049,Emma Brown,30-Jan-2026,personal loan,13149,24,10.06,,Unemployed,
+APP00173,CUST1734,,17-Nov-2025, Business Loan ,12236,48,6.18,72866,Student,Pending
+APP00362,CUST1766,John Smith,10-16-2023,Mortgage,,12,11.25,,Student,Pending
+APP00769,CUST1334,,09-04-2023,personal loan,,24,,63781,Unemployed,Approved
+APP00475,CUST1895,Michael Smith,10-Apr-2024,Education Loan,,24,,,employed,Under Review
+APP00275,CUST1552,,"February 16, 2026",Car Loan,,60,,25619,,approved
+APP00768,CUST1038,Sophia Smith,05-02-2024,,,,,116486,Student,Approved
+APP00259,CUST2846,,10-28-2025,Car Loan,94066,12,7.14,145887,Student,Under Review
+APP00595,CUST2524,John Brown,2025-10-07,,,24,10.12,77320,Employed, pending 
+APP00276,CUST1748,,05-25-2024,Car Loan,,24,,,Unemployed,
+APP00659,CUST2589,Sophia Smith,2024/04/29,,,,,,Self-Employed,Approved
+APP00535,CUST2390,Sophia Johnson,2025-10-27,Mortgage,,24,,51548,Self-Employed,approved
+APP00043,CUST1637,,"January 08, 2026", Business Loan ,21012,,13.77,, employed ,Rejected
+APP00696,CUST2792,,04/04/2025,Car Loan,44214,36,,,Employed,
+APP00014,CUST1561,Daniel Taylor,01-04-2025,Personal Loan,,48,8.41,125070,Employed,Approved
+APP00622,CUST1844,Olivia Taylor,2026-01-17, Business Loan ,65671,48,,,Self-Employed,Under Review
+APP00110,CUST2695,,2025/07/12,Personal Loan,,,,,Employed,Pending
+APP00475,CUST2707,Daniel Johnson,2024-05-07,Personal Loan,54883,,8.17,87602,Unemployed,Approved
+APP00464,CUST2234,,2023/10/28,Mortgage,,48,,,Student,approved
+APP00584,CUST2742,,13-Jul-2023,Mortgage,48967,48,11.71,,Student,
+APP00235,CUST1287,Emma Johnson,"November 23, 2024",Personal Loan,,,11.67,,Self-Employed,approved
+APP00043,CUST1609,Emma Anderson,27/07/2025,personal loan,,,,,Unemployed, pending 
+APP00889,CUST2844,Daniel Anderson,2025/09/23,Personal Loan,7236,60,,, employed ,Under Review
+APP00696,CUST1655,,11/11/2023,Car Loan,48903,60,,47038,Unemployed, pending 
+APP00493,CUST2409,Emma Brown,"January 27, 2025",Education Loan,54233,12,,107706,Employed,
+APP00674,CUST2025,Emma Taylor,"January 14, 2025",Mortgage,58150,12,,,Self-Employed,Pending
+APP00148,CUST1320,Emma Brown,16/08/2023,personal loan,,48,4.98,77059,Employed,Approved
+APP00523,CUST1618,John Anderson,15/11/2024,personal loan,,24,,25368,Employed,Under Review
+APP00764,CUST1339,,18/12/2023,Mortgage,7469,36,7.55,38614,Unemployed,Under Review
+APP00227,CUST2320,Sophia Brown,09-Nov-2024,Mortgage,81085,12,,,,Rejected
+APP00289,CUST1563,Daniel Johnson,"September 22, 2023", Business Loan ,,12,,, employed ,approved
+APP00342,CUST1881,,01-Nov-2023,personal loan,86553,48,,119073,Self-Employed,Rejected
+APP00258,CUST1905,Michael Taylor,30-Mar-2024, Business Loan ,,,10.15,,Employed,Rejected
+APP00749,CUST2055,Michael Taylor,2026-03-18,personal loan,76212,60,,,,approved
+APP00038,CUST2563,Sophia Johnson,09-18-2024,personal loan,,60,,91791,Self-Employed,approved
+APP00637,CUST1585,,06-Dec-2023,,41438,36,8.16,,Self-Employed,Rejected
+APP00209,CUST1204,Sophia Brown,"April 09, 2024",Education Loan,43905,12,,149042,, pending 
+APP00751,CUST2847,Michael Brown,05/04/2025, Business Loan ,18638,,,,employed, pending 
+APP00094,CUST2176,Emma Taylor,15-Jan-2024,personal loan,63386,,12.88,21535,Self-Employed,
+APP00751,CUST2491,Daniel Johnson,12-16-2024,personal loan,57990,24,5.28,,Unemployed,Under Review
+APP00011,CUST2205,Michael Johnson,2025/12/03,Education Loan,74825,60,,101853,Employed,
+APP00140,CUST1764,John Johnson,07/07/2025,Education Loan,98311,60,12.06,,,Approved
+APP00458,CUST2677,Emma Smith,17/12/2024, Business Loan ,67119,36,5.33,,Student,Rejected
+APP00264,CUST2423,Emma Brown,12-22-2024,Mortgage,67701,48,13.97,,,approved
+APP00489,CUST2500,Emma Smith,2025/03/21,personal loan,,36,13.12,55063,Self-Employed,approved
+APP00297,CUST2545,Daniel Anderson,2026/02/26,personal loan,63751,60,10.47,140548,Unemployed,Under Review
+APP00500,CUST2864,Michael Brown,10/02/2025,Mortgage,,24,6.03,35875,employed,Rejected
+APP00303,CUST2269,Michael Brown,02-18-2025,Mortgage,69472,12,5.18,109410,Student,
+APP00202,CUST1359,John Anderson,19/05/2024,Personal Loan,,12,12.24,136538,Student,Approved
+APP00309,CUST2917,Sophia Taylor,03-Oct-2025,Education Loan,51059,12,,,,Rejected
+APP00218,CUST2639,,2024/10/09,Mortgage,,,14.17,129469,,
+APP00093,CUST1923,Olivia Anderson,11-Jul-2025,Personal Loan,,24,,,employed,Rejected
+APP00844,CUST2833,,2025/03/27,Education Loan,,48,,,Student,Under Review
+APP00284,CUST1276,Michael Taylor,04-12-2024,Education Loan,,,11.99,,employed,Approved
+APP00551,CUST2833,,2025-12-17,Mortgage,,48,,29554,Student,Under Review
+APP00266,CUST2985,Daniel Brown,22-Sep-2023,Mortgage,29062,,6.17,,employed, pending 
+APP00900,CUST2554,,2024-05-18,Mortgage,68332,12,4.73,120153,Unemployed,approved
+APP00707,CUST2671,Olivia Taylor,"June 18, 2025", Business Loan ,,48,,,Self-Employed, pending 
+APP00021,CUST2386,,2025/07/21,Car Loan,,12,14.79,,employed,Approved
+APP00820,CUST2954,Olivia Johnson,"January 30, 2026",Personal Loan,,,7.46,58430,,Approved
+APP00890,CUST1293,Michael Taylor,2024-01-10,,,24,,135921, employed ,approved
+APP00801,CUST2202,,10-22-2025,,,60,5.83,,Employed,
+APP00535,CUST2997,,2023/09/14,,,60,8.82,74498, employed ,Rejected
+APP00336,CUST2028,,28/10/2025,,,12,,70525, employed ,Pending
+APP00316,CUST1432,Emma Brown,09-Apr-2024,Education Loan,,60,,,,approved
+APP00216,CUST2181,Daniel Smith,28/09/2024,Car Loan,,48,,125643, employed ,Under Review
+APP00119,CUST1441,John Brown,01-31-2025,personal loan,73741,,,,Student, pending 
+APP00233,CUST1194,Olivia Taylor,26-Sep-2023,Car Loan,,,,, employed ,Rejected
+APP00078,CUST1617,,11-01-2023,Education Loan,30458,48,,79168, employed ,Under Review
+APP00071,CUST1932,Michael Johnson,06-15-2025,,82320,36,13.3,,,Pending
+APP00161,CUST1627,Daniel Anderson,2024-07-26,Education Loan,,,11.63,,Employed,Rejected
+APP00014,CUST2847,Emma Smith,"November 13, 2023",Education Loan,50262,24,12.19,,, pending 
+APP00794,CUST1476,Daniel Anderson,"August 31, 2024",Mortgage,,12,7.31,96324,Self-Employed,Approved
+APP00376,CUST2720,Olivia Anderson,"July 13, 2023",,75503,48,11.32,25456,Student,Pending
+APP00062,CUST2996,Olivia Smith,2025/05/27,Personal Loan,49441,48,,107164,, pending 
+APP00181,CUST2073,,09-22-2024,personal loan,91978,,,40517,Employed,approved
+APP00284,CUST1346,Emma Brown,2026-02-17,personal loan,65468,36,,,Employed,approved
+APP00650,CUST2421,,11-Nov-2025, Business Loan ,,24,10.38,43275,Unemployed,Rejected
+APP00477,CUST1339,Emma Johnson,2025-09-23, Business Loan ,,12,,,Self-Employed,Approved
+APP00708,CUST1119,Sophia Johnson,15/02/2024,Car Loan,71563,60,,119828, employed ,Pending
+APP00565,CUST1037,,2024/11/22,Car Loan,,,,,employed,approved
+APP00836,CUST1598,John Anderson,31-Oct-2023,Personal Loan,,,9.89,92592,employed,Pending
+APP00514,CUST1889,Michael Brown,21-Mar-2024,personal loan,,,,80210,Self-Employed,Pending
+APP00299,CUST1127,,27-Jun-2025,Personal Loan,,36,,88785,Unemployed,
+APP00760,CUST2069,Sophia Smith,03-04-2025,personal loan,,,7.04,,,Approved
+APP00641,CUST2780,Sophia Smith,01/12/2025,Education Loan,97134,36,9.13,,Employed,approved
+APP00031,CUST2109,Sophia Smith,"January 10, 2026",Car Loan,93543,12,,,Student,
+APP00308,CUST2238,Sophia Johnson,10/12/2024,,,36,14.94,, employed ,Rejected
+APP00182,CUST2387,Emma Anderson,2024-01-04,Education Loan,33946,60,,136616, employed ,Pending
+APP00843,CUST1102,Michael Brown,2024/12/13,Education Loan,84025,48,,,Student,
+APP00767,CUST1315,Daniel Brown,21-Oct-2023,Education Loan,,48,,61232,,Rejected
+APP00345,CUST1594,John Anderson,17/02/2026, Business Loan ,,24,7.04,74227,Employed,approved
+APP00391,CUST2015,Sophia Smith,25/11/2024,personal loan,,,,,,Rejected
+APP00053,CUST1373,Daniel Taylor,09-22-2023,personal loan,86407,24,,,, pending 
+APP00818,CUST2543,Sophia Taylor,2024/07/24,,,48,14.07,110688,Student,Pending
+APP00672,CUST1456,,2023-08-23,Personal Loan,76720,24,7.61,,Employed, pending 
+APP00260,CUST2310,Emma Taylor,2025-11-06, Business Loan ,26528,24,12.85,,Self-Employed,Pending
+APP00572,CUST2879,Daniel Brown,03-30-2024,personal loan,6248,24,14.37,25390,Self-Employed,Pending
+APP00297,CUST1182,Emma Smith,07-15-2024,Mortgage,,,4.25,,Self-Employed,approved
+APP00118,CUST2489,Olivia Taylor,"May 20, 2025",Personal Loan,,48,,,Student,
+APP00539,CUST2365,Sophia Taylor,07-28-2023,Car Loan,,,,,Unemployed,Approved
+APP00449,CUST1404,John Smith,2025-12-15, Business Loan ,,24,5.19,75309,Employed,Pending
+APP00300,CUST2905,Sophia Taylor,02-Jun-2025,Mortgage,,36,9.35,,Employed, pending 
+APP00363,CUST1710,Michael Taylor,04/05/2024,personal loan,,24,5.93,73074,Student,Approved
+APP00334,CUST1156,,09-Aug-2024,,,12,,27763,Student,Approved
+APP00746,CUST1352,John Anderson,11-Dec-2023,Education Loan,,60,5.94,,Self-Employed,Rejected
+APP00658,CUST1917,,2025-02-03,Mortgage,25390,60,,74408,employed,Under Review
+APP00574,CUST1818,John Brown,2025/05/17,Mortgage,,60,7.92,82924,Employed, pending 
+APP00257,CUST2074,Sophia Anderson,23/04/2024, Business Loan ,52383,48,12.07,,Student,
+APP00326,CUST1359,,30-Jan-2026,Education Loan,,,,69390,,Approved
+APP00878,CUST2945,,2024-11-04,Mortgage,68751,36,12.83,, employed ,Under Review
+APP00411,CUST2477,,"April 25, 2024", Business Loan ,10304,12,,,Unemployed,
+APP00805,CUST1341,Daniel Anderson,2024/09/10,personal loan,,36,7.07,67449,Unemployed,Pending
+APP00510,CUST2593,Emma Johnson,30/04/2024, Business Loan ,33696,12,,,Self-Employed,
+APP00842,CUST2140,Emma Smith,01/02/2025,Education Loan,,60,,37777,Student,Rejected
+APP00853,CUST2999,,"October 13, 2024",Car Loan,82319,,,,Unemployed, pending 
+APP00026,CUST2416,John Anderson,2025/11/11,Car Loan,,,10.87,39085,Self-Employed,Approved
+APP00301,CUST1948,Emma Johnson,20/07/2025,Mortgage,20939,24,12.51,, employed ,
+APP00132,CUST2506,Sophia Johnson,2024-09-04,Mortgage,,36,12.38,,Employed,Under Review
+APP00392,CUST2009,Daniel Johnson,2023/12/29,Personal Loan,75658,48,8.37,, employed ,Pending
+APP00633,CUST2393,Daniel Johnson,01-26-2024,,,,,60616,,Pending
+APP00851,CUST1835,John Taylor,"August 30, 2023",,,12,13.53,,Employed,Approved
+APP00539,CUST1535,Michael Brown,09/06/2024,personal loan,,48,10.01,45212, employed ,
+APP00599,CUST1686,Emma Johnson,08-Oct-2023,Car Loan,54675,24,10.49,,Self-Employed,Rejected
+APP00288,CUST1802,Michael Johnson,2024/08/29,Car Loan,,36,9.47,149979,Self-Employed,Rejected
+APP00217,CUST1749,,05-Jan-2025,Car Loan,,60,,,Employed,
+APP00390,CUST1023,,19-Jan-2025,Mortgage,,12,8.37,115151,Unemployed,Rejected
+APP00027,CUST1606,,2023/09/27,Mortgage,94959,48,11.57,79783,Self-Employed,
+APP00023,CUST2523,,16-Aug-2023,personal loan,,24,6.85,135538, employed , pending 
+APP00619,CUST1834,Daniel Smith,23-Nov-2024,personal loan,12261,60,14.25,, employed ,Pending
+APP00733,CUST1085,,09-11-2024,Education Loan,83642,,,,Unemployed,Pending
+APP00183,CUST2530,Michael Smith,05-Mar-2025,Personal Loan,,,4.97,,,Under Review
+APP00491,CUST2853,Emma Johnson,2024/08/18,Car Loan,35676,,13.84,,employed,Rejected
+APP00474,CUST2491,Olivia Johnson,11-Oct-2023,Personal Loan,,12,5.77,59683,employed,
+APP00077,CUST1205,,2025/02/21,Education Loan,30600,,,,,Under Review
+APP00556,CUST1245,,10-30-2025,Car Loan,68321,24,13.75,35709,Student, pending 
+APP00053,CUST2566,Olivia Taylor,07-Aug-2024,,,48,6.72,41953,Student,
+APP00398,CUST2426,John Smith,16-Feb-2026, Business Loan ,78638,60,,52874,Self-Employed,Under Review
+APP00547,CUST2127,Michael Anderson,01-15-2026,Mortgage,40478,,5.01,39009, employed ,Under Review
+APP00089,CUST1841,Michael Anderson,"May 10, 2025",,56991,60,7.75,,Employed,Approved
+APP00200,CUST2123,Olivia Smith,"January 13, 2025",Car Loan,,60,13.62,, employed , pending 
+APP00247,CUST1684,Michael Johnson,04/09/2023,Mortgage,62511,48,8.24,148134,employed,
+APP00166,CUST2644,Michael Johnson,01-19-2026,Car Loan,,36,14.59,111415,employed, pending 
+APP00296,CUST2640,,2025/05/02,Personal Loan,,60,5.49,70502,employed,Rejected
+APP00105,CUST2109,Daniel Taylor,12/12/2024,Education Loan,59355,48,,,Student,
+APP00717,CUST2275,,2025/07/30,Mortgage,,24,14.87,94889,Self-Employed,
+APP00768,CUST2210,Daniel Taylor,2025-10-17,Mortgage,95463,24,6.21,22722,Employed,Rejected
+APP00152,CUST1597,Emma Smith,28-Apr-2024,Personal Loan,,24,,49553,Student,Under Review
+APP00810,CUST1771,,28/03/2026,personal loan,43779,,12.0,100904,Employed,
+APP00423,CUST2528,John Taylor,28-Nov-2024, Business Loan ,,24,,, employed ,Approved
+APP00656,CUST1474,Sophia Taylor,10-10-2024, Business Loan ,72548,,,,,
+APP00201,CUST1418,Daniel Taylor,"October 16, 2025",Mortgage,,48,,89477,employed,Under Review
+APP00336,CUST1008,Olivia Anderson,17/11/2023,,77315,48,,130613,Unemployed, pending 
+APP00595,CUST1715,,"November 27, 2023", Business Loan ,,36,,,,Rejected
+APP00790,CUST2061,,"April 21, 2025",Education Loan,32982,,7.85,,employed,approved
+APP00467,CUST2959,Sophia Johnson,04/01/2025,Mortgage,48147,24,,43377,Unemployed,approved
+APP00318,CUST2430,Sophia Anderson,02-14-2024,Education Loan,,48,,,Student, pending 
+APP00779,CUST2722,John Anderson,"October 17, 2025", Business Loan ,47234,12,,,Employed,Pending
+APP00326,CUST1140,Olivia Smith,2024-04-02,Personal Loan,55911,,6.48,57159,Self-Employed,Under Review
+APP00112,CUST1755,Daniel Taylor,2024-12-27, Business Loan ,23841,12,,48265,employed,Approved
+APP00651,CUST2563,John Taylor,10-Apr-2025, Business Loan ,17928,36,5.07,58641,Employed, pending 
+APP00356,CUST2890,Michael Brown,"August 19, 2023",Personal Loan,71376,48,,,employed, pending 
+APP00147,CUST2748,,03-16-2026,personal loan,35158,48,9.39,86586,employed, pending 
+APP00450,CUST1967,Michael Brown,"January 15, 2026",Education Loan,59086,,,,employed,Pending
+APP00155,CUST2188,,12-24-2025,Mortgage,26522,48,12.15,,Student,Pending
+APP00677,CUST1626,,07-08-2023,,,12,3.84,,employed,Under Review
+APP00401,CUST2322,Daniel Taylor,"March 06, 2025",Car Loan,88996,60,10.69,,Student, pending 
+APP00698,CUST1969,,08-21-2023,personal loan,,36,,, employed ,Rejected
+APP00218,CUST2080,,2024/07/31,personal loan,54063,12,8.84,,employed,Rejected
+APP00771,CUST1894,Emma Smith,2024-09-26,Personal Loan,27704,,12.87,,Employed,Under Review
+APP00818,CUST2615,Daniel Taylor,2024-12-24,Personal Loan,,,,27975,Unemployed,Pending
+APP00127,CUST2177,Daniel Taylor,2024-12-19,personal loan,,12,12.36,,,
+APP00130,CUST2010,Sophia Anderson,2023-12-09,Personal Loan,,12,8.71,90068,Self-Employed,Rejected
+APP00360,CUST1574,,12-02-2025,personal loan,,24,,,Self-Employed,Under Review
+APP00576,CUST2389,,11-Jan-2025,Education Loan,45709,,5.46,109466, employed , pending 
+APP00767,CUST2792,,09-29-2025,Personal Loan,,,,92204,Self-Employed,Under Review
+APP00405,CUST1432,Daniel Anderson,22-Jun-2025,Mortgage,67976,24,8.84,119486,Unemployed,approved
+APP00330,CUST1758,Olivia Taylor,06-09-2024,Mortgage,,60,8.11,,Student,Under Review
+APP00797,CUST2685,Daniel Brown,02-07-2025,Personal Loan,75285,60,7.48,55300,Unemployed,Pending
+APP00825,CUST2795,Daniel Brown,19/08/2024,Mortgage,,36,12.74,,,Under Review
+APP00228,CUST2808,Emma Smith,"October 12, 2023",Education Loan,29434,12,9.78,, employed , pending 
+APP00225,CUST1707,Michael Smith,12-15-2023,Car Loan,76763,,5.38,,,
+APP00088,CUST2782,Michael Brown,03/01/2024,Education Loan,33806,24,,,Employed,Approved
+APP00830,CUST2888,Emma Johnson,"December 10, 2023", Business Loan ,,12,,69397,Self-Employed,Pending
+APP00605,CUST2047,Emma Johnson,2024-10-30,Education Loan,,24,,48658,Employed,
+APP00361,CUST1445,Michael Taylor,01-29-2024,Car Loan,,60,,122096,, pending 
+APP00517,CUST2833,Olivia Johnson,"February 02, 2024",Car Loan,75036,12,,55573, employed ,
+APP00270,CUST2151,Olivia Johnson,24-Mar-2026,Car Loan,,24,,,,Pending
+APP00335,CUST1538,Daniel Smith,2023-08-25,,30379,48,,,employed,Rejected
+APP00158,CUST2084,Sophia Anderson,07/01/2025,Mortgage,,48,7.78,139623,Self-Employed,
+APP00491,CUST2496,Emma Johnson,"August 29, 2024",personal loan,12574,,5.32,62940,,Approved
+APP00860,CUST2633,,"January 02, 2024",Education Loan,,48,5.67,111512, employed ,Approved
+APP00738,CUST1004,,16/08/2025,Car Loan,,36,,,,Pending
+APP00039,CUST2828,John Anderson,12-Sep-2025, Business Loan ,16101,60,,24226,Self-Employed,Rejected
+APP00522,CUST2373,,25-Mar-2024,,68071,60,3.52,,Unemployed,
+APP00649,CUST1858,,19-Apr-2024,Mortgage,67196,24,,35534, employed , pending 
+APP00385,CUST2291,Emma Taylor,2023/10/26,Personal Loan,8061,,,,Unemployed,Under Review
+APP00228,CUST1992,Michael Smith,"March 18, 2025",Mortgage,,24,,89034,Self-Employed,
+APP00630,CUST1403,,19-Apr-2024, Business Loan ,,24,,,employed,Approved
+APP00751,CUST1734,Olivia Brown,18/12/2023,personal loan,,12,8.69,109681,,Pending
+APP00514,CUST1460,John Brown,"August 07, 2023",Mortgage,80915,36,11.47,104716,,Rejected
+APP00474,CUST1412,,26/07/2025,Education Loan,72185,,13.79,,,Approved
+APP00094,CUST1973,,2024/07/20,personal loan,88786,36,,43858,Unemployed,
+APP00515,CUST2264,,2025/02/05,Mortgage,,12,,98983,Employed,Approved
+APP00793,CUST1411,Olivia Anderson,05-Aug-2025,Mortgage,,,10.49,64458,Employed,
+APP00468,CUST1732,,13-Mar-2024,Education Loan,,36,,32627,Student,Approved
+APP00348,CUST2831,Daniel Taylor,2024-06-25,Mortgage,94946,24,7.79,129169, employed ,approved
+APP00582,CUST1618,Michael Taylor,2024/05/28,Mortgage,,48,,114744,Self-Employed, pending 
+APP00753,CUST2195,John Johnson,10/03/2026,,45128,24,,,Self-Employed,Pending
+APP00783,CUST2726,Olivia Brown,2023/07/15,Education Loan,,,3.77,,Student,Rejected
+APP00697,CUST1017,Emma Anderson,2026/03/17,Education Loan,,48,4.14,37515, employed ,Approved
+APP00009,CUST2297,Daniel Johnson,2026-02-06,personal loan,,36,3.75,98035,employed, pending 
+APP00041,CUST2849,,05/09/2025, Business Loan ,,12,,, employed , pending 
+APP00561,CUST2512,John Brown,2024/03/27,Car Loan,11965,36,,,Self-Employed,Rejected
+APP00100,CUST2410,,02-19-2024, Business Loan ,74917,,5.57,,,Pending
+APP00181,CUST1100,Emma Brown,08-17-2025, Business Loan ,59514,24,6.88,63335,Unemployed,Pending
+APP00347,CUST1502,John Johnson,"November 20, 2024",personal loan,,36,,79738,employed,Approved
+APP00127,CUST1393,Olivia Taylor,22/10/2024,Mortgage,,60,12.96,131908, employed ,Under Review
+APP00253,CUST1848,Daniel Taylor,2025-03-12, Business Loan ,37110,36,13.98,117653,,
+APP00256,CUST1100,Daniel Smith,30-Sep-2025,Education Loan,98292,,6.09,,employed,
+APP00770,CUST1003,Michael Taylor,2026-02-01,personal loan,28615,24,,63322,Student,Under Review
+APP00224,CUST1549,,08-Jul-2024,Education Loan,,60,,,Student,
+APP00290,CUST1240,Daniel Anderson,24/09/2025,Mortgage,,,,78575,Student,Rejected
+APP00303,CUST1412,Michael Anderson,11/05/2024,Car Loan,,60,6.04,,Unemployed,Pending
+APP00713,CUST1912,Michael Johnson,2025-10-24,Car Loan,,,,123633,Student,Rejected
+APP00052,CUST1606,John Taylor,2025-11-02,Car Loan,,24,,138112,Unemployed,Under Review
+APP00228,CUST2518,,04-12-2025,Education Loan,37801,48,12.15,,,Under Review
+APP00293,CUST2958,John Brown,2025-10-09, Business Loan ,,24,,,Student,approved
+APP00212,CUST1973,Emma Johnson,2023-08-01,Personal Loan,,,5.2,, employed ,
+APP00407,CUST1757,Michael Brown,2023/11/12,Car Loan,,12,5.71,90516,Student,Pending
+APP00144,CUST2000,,02-26-2024,Personal Loan,87290,,,123912,Self-Employed,Under Review
+APP00143,CUST2283,Sophia Johnson,"June 04, 2025",Mortgage,35108,36,14.89,,,Rejected
+APP00696,CUST2797,John Brown,05-Aug-2024, Business Loan ,,,8.75,,Self-Employed, pending 
+APP00399,CUST1728,Michael Brown,2024/05/17,Mortgage,,24,,135987, employed ,Under Review
+APP00247,CUST2175,,06/11/2024,,,,,109360,Unemployed,Rejected
+APP00517,CUST1964,Michael Taylor,15-Nov-2023,personal loan,,,4.53,,,Approved
+APP00642,CUST2392,Sophia Brown,10-23-2025,Car Loan,,24,9.84,39277,employed,approved
+APP00897,CUST1229,Emma Anderson,2023-11-12, Business Loan ,99895,48,6.37,,employed, pending 
+APP00506,CUST1053,,10-05-2024,Car Loan,,60,4.72,,Employed,approved
+APP00307,CUST2830,Sophia Smith,2024-02-25,Car Loan,63843,24,8.61,,Unemployed,Under Review
+APP00647,CUST1146,Michael Anderson,2025-12-27, Business Loan ,62730,36,6.05,113365,Unemployed,Approved
+APP00029,CUST2193,John Brown,03-Jul-2024,Personal Loan,,,,,,Under Review
+APP00768,CUST1937,Daniel Johnson,15-Dec-2023, Business Loan ,14296,12,6.65,,Student,Pending
+APP00770,CUST1913,,"May 13, 2024", Business Loan ,71302,,7.03,126258,Employed,Rejected
+APP00690,CUST2278,,2025-09-02, Business Loan ,,36,10.22,,Employed, pending 
+APP00529,CUST1818,Daniel Johnson,2025/08/08,Car Loan,58902,48,,,, pending 
+APP00752,CUST1562,Emma Brown,2024/08/27,Car Loan,,12,8.48,,Unemployed,Under Review
+APP00566,CUST2209,Sophia Anderson,28-Jan-2024,,55333,24,,34161,Self-Employed, pending 
+APP00712,CUST2918,,11-Aug-2023,Personal Loan,,24,,96189,Self-Employed,Pending
+APP00400,CUST1610,Michael Taylor,2026-03-17,Car Loan,18655,60,14.33,30307,Unemployed, pending 
+APP00438,CUST2137,Olivia Smith,02-22-2026,Car Loan,56621,24,,,Self-Employed,Approved
+APP00444,CUST2245,Michael Smith,2023/09/07, Business Loan ,53710,12,,,,Pending
+APP00173,CUST2324,,14/09/2023, Business Loan ,58116,,11.64,,Unemployed,Pending
+APP00158,CUST2678,,03-10-2024,Mortgage,14945,24,8.44,,employed,approved
+APP00652,CUST2491,Michael Smith,2023/07/24,Education Loan,,48,,67794,Self-Employed,Approved
+APP00601,CUST2088,John Smith,17-Apr-2024,Education Loan,,60,13.6,,Unemployed,
+APP00232,CUST2928,,2024/01/24,Car Loan,,24,6.6,,Unemployed,approved
+APP00001,CUST2722,,2023-07-26,Education Loan,,36,,56923,Employed,Under Review
+APP00805,CUST1515,Michael Taylor,11-01-2023,Personal Loan,,48,4.52,,Self-Employed,approved
+APP00450,CUST1516,John Taylor,2025-05-13,personal loan,22119,24,13.41,84264,employed,
+APP00576,CUST1729,Sophia Smith,2024-08-10,Car Loan,78120,48,12.5,90651,Unemployed,approved
+APP00250,CUST2439,,2024-10-01,Car Loan,68849,48,,33715,,Under Review
+APP00526,CUST1051,Sophia Anderson,10-01-2024, Business Loan ,21373,12,,64729,,Approved
+APP00734,CUST1235,Sophia Brown,"December 10, 2023", Business Loan ,60741,,,121798,Unemployed,approved
+APP00447,CUST1798,Emma Brown,2024-09-09,Education Loan,74439,,12.55,145396,Unemployed,Pending
+APP00691,CUST2389,,09-Dec-2025,personal loan,42980,60,5.99,,Self-Employed,Under Review
+APP00486,CUST1997,Emma Johnson,21/10/2025,Education Loan,,48,12.49,99163, employed ,Pending
+APP00884,CUST1195,,"August 10, 2023",Personal Loan,12786,36,,, employed ,approved
+APP00624,CUST2242,,2025-03-08,,67796,,7.76,33059,Employed,Under Review
+APP00278,CUST2719,Michael Johnson,09-05-2023,personal loan,,48,12.84,25033,Student,
+APP00785,CUST2387,John Anderson,2024/04/26,Mortgage,,12,,,employed,
+APP00141,CUST1179,Olivia Brown,"November 24, 2025",Personal Loan,,,14.6,44837,Employed,
+APP00315,CUST1784,Michael Taylor,08-18-2024,Car Loan,64190,48,14.86,76861,Student,Rejected
+APP00193,CUST2104,Olivia Taylor,"July 25, 2024",Mortgage,93350,12,,115400,employed,Rejected
+APP00471,CUST1374,Olivia Anderson,2026/01/23,Personal Loan,,,14.41,101858,Student,Rejected
+APP00093,CUST2941,Michael Taylor,12-19-2025,Personal Loan,,36,,96309,,approved
+APP00725,CUST1892,,2025-06-12,Personal Loan,72321,,,,Student,Approved
+APP00548,CUST1620,Michael Smith,07-19-2025,personal loan,,60,,, employed ,Under Review
+APP00696,CUST2836,,2024-04-03,Personal Loan,41914,12,9.03,64366,Self-Employed, pending 
+APP00060,CUST2015,,"March 03, 2025",Car Loan,57012,12,4.42,, employed ,Rejected
+APP00844,CUST2344,Emma Smith,15-Dec-2023,,,48,,,Student,Approved
+APP00394,CUST2507,Emma Johnson,2024-04-13,Education Loan,,,,,Self-Employed,Pending
+APP00104,CUST1038,Michael Brown,04-Dec-2023,personal loan,,24,,139796, employed ,approved
+APP00410,CUST2587,Emma Smith,2024/01/12,,74360,24,4.99,110583,Unemployed,Rejected
+APP00623,CUST2572,Emma Brown,11-12-2024,Education Loan,,36,,,Self-Employed,Approved
+APP00163,CUST2655,Emma Brown,10/08/2023,Personal Loan,,12,14.7,,Self-Employed,approved
+APP00606,CUST1275,Emma Smith,2025-02-13,Car Loan,,24,13.77,,Unemployed,
+APP00754,CUST1384,John Anderson,04-20-2024, Business Loan ,,12,5.74,111907,Self-Employed, pending 
+APP00545,CUST1949,Daniel Brown,02-11-2025,personal loan,27212,48,7.34,20529,Student,approved
+APP00166,CUST2860,Sophia Anderson,24-Jul-2024,personal loan,80485,36,,,Employed,
+APP00695,CUST1487,,08-Jul-2025,,54213,60,8.94,,employed, pending 
+APP00400,CUST2143,Daniel Johnson,2026/03/26, Business Loan ,,60,3.59,,,Pending
+APP00111,CUST1769,,06-Jan-2025,Education Loan,,,,,employed,Approved
+APP00263,CUST1030,Daniel Johnson,21-Feb-2026, Business Loan ,,12,7.61,141556,employed,Pending
+APP00254,CUST1164,Michael Smith,07-16-2024,Education Loan,,24,7.57,,Employed, pending 
+APP00057,CUST1433,Emma Johnson,2025-03-29,Education Loan,72745,,,,,Under Review
+APP00642,CUST1086,John Smith,"May 23, 2025",Personal Loan,23781,,5.81,64582,Self-Employed,
+APP00636,CUST2709,,"December 25, 2023",Car Loan,,12,14.81,,,approved
+APP00386,CUST1987,John Brown,23/07/2023,Education Loan,48859,12,,82657,Self-Employed,Approved
+APP00839,CUST1401,Daniel Johnson,07-15-2024,personal loan,,48,8.16,,Self-Employed,approved
+APP00100,CUST2145,Sophia Johnson,2026/02/24,,,60,,,employed, pending 
+APP00434,CUST1934,Emma Taylor,2026/02/09,personal loan,,36,,58764,Self-Employed,
+APP00748,CUST1671,Daniel Johnson,01-16-2026, Business Loan ,9334,60,,,Student,Under Review
+APP00630,CUST2817,Olivia Johnson,21-Mar-2024,Mortgage,,24,,,employed,Rejected
+APP00458,CUST1878,Emma Anderson,30/04/2024,personal loan,,24,,149744, employed ,approved
+APP00329,CUST1641,,2024-06-07,,,48,,74144,Employed,Under Review
+APP00611,CUST2951,,04-08-2025,Personal Loan,,24,,33011,,
+APP00462,CUST1848,John Anderson,09-Aug-2024, Business Loan ,57000,12,12.79,66843,Unemployed, pending 
+APP00136,CUST1015,Emma Anderson,10-01-2023,Mortgage,,48,,,employed,Rejected
+APP00120,CUST1677,,07-15-2023,Personal Loan,,36,,,employed,
+APP00012,CUST2552,John Brown,13/02/2024,Car Loan,33931,60,,,Self-Employed,Rejected
+APP00259,CUST1972,Sophia Taylor,2024/07/28,Mortgage,56351,48,8.99,140823,Employed,Approved
+APP00817,CUST2048,,2025-12-10,Personal Loan,26134,60,,91435,,Pending
+APP00097,CUST1594,Emma Smith,2025-10-24,Education Loan,,12,13.12,50331,Employed, pending 
+APP00130,CUST2867,Emma Anderson,2025-02-25,personal loan,68814,24,7.57,,Student,Pending
+APP00783,CUST2672,Olivia Johnson,26/04/2025,Personal Loan,15111,60,,,Self-Employed,Pending
+APP00826,CUST1429,,2026/01/31,Mortgage,,12,,73212,Student,Approved
+APP00716,CUST1407,,04-12-2025,personal loan,,,10.91,68332,Unemployed,Pending
+APP00704,CUST2897,,2025-08-11,personal loan,,48,12.67,33144, employed ,Rejected
+APP00053,CUST1825,Olivia Johnson,2025-08-26, Business Loan ,94660,48,3.91,,Self-Employed, pending 
+APP00042,CUST1474,,2023-10-21,,35967,,12.27,,employed,Under Review
+APP00405,CUST2383,Olivia Brown,20/07/2025,Education Loan,71451,,8.3,146942,Student,Pending
+APP00738,CUST1011,John Taylor,13-Oct-2024,Car Loan,,60,,114853, employed ,Rejected
+APP00247,CUST2382,Daniel Anderson,24-Oct-2023,Car Loan,,12,7.93,65083,Unemployed,Rejected
+APP00294,CUST1487,Daniel Taylor,2025/02/12,,37305,12,6.09,,Employed,Pending
+APP00039,CUST1624,John Anderson,07-May-2025,,,12,,,employed,Under Review
+APP00502,CUST2601,Sophia Brown,2025/07/01, Business Loan ,48686,24,,,employed,
+APP00174,CUST2495,,2025/10/22,Mortgage,7379,12,13.38,,employed, pending 
+APP00001,CUST1982,Michael Johnson,2023-09-24,personal loan,10960,60,,,Self-Employed, pending 
+APP00064,CUST1542,Olivia Taylor,2024/01/09,Mortgage,,48,,76176, employed ,approved
+APP00787,CUST2670,Michael Smith,03-Feb-2025,personal loan,19764,,,32183,employed,approved
+APP00524,CUST1925,,2024/05/23,Education Loan,57670,60,5.97,, employed ,Pending
+APP00682,CUST2797,John Taylor,11-15-2025,Car Loan,,12,6.72,32636,Student, pending 
+APP00548,CUST1059,,2025/02/05,Education Loan,,48,7.83,149538, employed ,Under Review
+APP00405,CUST2091,John Anderson,08/06/2025, Business Loan ,,48,11.8,67135,Employed,Under Review
+APP00538,CUST1125,Sophia Brown,11/10/2023,Mortgage,35989,60,7.27,49127,,Approved
+APP00241,CUST2336,,2023-07-10,,25007,24,,, employed ,Rejected
+APP00596,CUST2529,,2023/08/08,Personal Loan,32399,24,11.87,,Unemployed, pending 
+APP00552,CUST2649,,2024-09-03,Education Loan,,,,,Employed,
+APP00297,CUST2264,,20-Apr-2025, Business Loan ,64332,60,8.09,39839,Self-Employed,Rejected
+APP00048,CUST1644,Michael Taylor,12/07/2023, Business Loan ,72372,,11.47,, employed , pending 
+APP00132,CUST2809,Emma Taylor,2025-08-08,Education Loan,41264,12,,105733,,Under Review
+APP00597,CUST2163,Emma Brown,"August 31, 2023",Car Loan,53045,24,6.88,,Employed,Pending
+APP00569,CUST2296,John Johnson,2024/01/09,,14944,24,,,Self-Employed,Approved
+APP00544,CUST1449,,"June 24, 2025",Education Loan,,24,,104751,Self-Employed,Approved
+APP00788,CUST2577,Sophia Brown,06-10-2024,personal loan,10022,60,3.6,,Self-Employed,
+APP00024,CUST2694,,"July 29, 2023",personal loan,,48,10.78,,Employed,Under Review
+APP00414,CUST1465,Olivia Smith,2026/03/14, Business Loan ,,48,13.49,125945,Employed,approved
+APP00038,CUST2965,Olivia Smith,2025/03/21,personal loan,,60,8.34,136818,Employed,Pending
+APP00430,CUST2441,Emma Brown,2025/10/15,personal loan,,24,12.86,25523,Employed,Rejected
+APP00069,CUST2123,Daniel Taylor,29-Jan-2025,Mortgage,,36,7.24,129670,Student,approved
+APP00203,CUST1798,Emma Smith,17-Jul-2023,,,48,,,employed,Pending
+APP00817,CUST2990,Olivia Smith,15/12/2025,Car Loan,84120,24,,,Student, pending 
+APP00118,CUST2083,Emma Taylor,"March 07, 2026",Mortgage,9704,,,,Employed,
+APP00283,CUST1493,,11-28-2024,personal loan,,36,,73071, employed ,Rejected
+APP00780,CUST1265,Michael Johnson,29/01/2026,Car Loan,,36,,50386,Employed, pending 
+APP00326,CUST2835,Emma Brown,"December 06, 2023",Mortgage,37726,36,13.51,87787, employed ,Pending
+APP00895,CUST1789,Sophia Anderson,20/08/2025,Education Loan,,,7.87,76442,Self-Employed,Rejected
+APP00119,CUST1367,Sophia Anderson,29/08/2024,,,48,9.14,,,Rejected
+APP00748,CUST1418,Emma Anderson,2025/04/08,,32148,60,,, employed ,Approved
+APP00654,CUST1121,Sophia Anderson,10-12-2024, Business Loan ,,12,,,Student,Approved
+APP00854,CUST1039,Michael Brown,08/02/2025,Car Loan,,60,14.44,, employed ,Rejected
+APP00898,CUST2143,,06-Sep-2025, Business Loan ,,,,125587,employed,Pending
+APP00106,CUST1260,Sophia Taylor,2024/03/25,Car Loan,95782,24,8.82,28902,Self-Employed,approved
+APP00670,CUST1724,Michael Taylor,2023-10-06,Personal Loan,15208,60,6.8,111181, employed ,approved
+APP00323,CUST1884,,28/12/2024,Mortgage,13327,,,,Self-Employed,Pending
+APP00851,CUST2130,,08-20-2024,,,48,11.75,76429,, pending 
+APP00139,CUST1439,,"December 19, 2024",Personal Loan,37669,12,,72383,Unemployed,Under Review
+APP00667,CUST1931,Sophia Taylor,2024-05-15,Personal Loan,65342,36,13.43,,Self-Employed,approved
+APP00858,CUST2639,Daniel Johnson,2024-09-13,,,48,,55767,Employed,Approved
+APP00059,CUST2179,Emma Brown,2025/08/23,Car Loan,39144,60,12.65,,Unemployed,
+APP00218,CUST2530,Daniel Anderson,22/04/2025,Car Loan,,,11.51,,, pending 
+APP00558,CUST1719,Olivia Anderson,2023-10-10,,,,9.35,88685,Student,Approved
+APP00744,CUST1292,Emma Taylor,16/08/2024, Business Loan ,,12,,,employed,Under Review
+APP00622,CUST1632,Emma Anderson,2025/07/12,Personal Loan,20202,24,,59294,Student,Pending
+APP00188,CUST1740,Olivia Smith,"December 13, 2023",Education Loan,,36,8.47,42582,Unemployed, pending 
+APP00657,CUST2316,Sophia Brown,10-Sep-2024, Business Loan ,,60,11.31,114574,Student, pending 
+APP00037,CUST1929,Michael Johnson,08-Apr-2024,Education Loan,32929,24,14.6,,Self-Employed,Approved
+APP00353,CUST2479,John Taylor,01-14-2026, Business Loan ,15997,,11.84,72599,Student,Approved
+APP00211,CUST2251,,07-Feb-2026,Car Loan,,,,128994,Self-Employed,Approved
+APP00586,CUST2921,,2024/06/20,Personal Loan,,,5.73,119740,,approved
+APP00386,CUST2832,,10-07-2023,Education Loan,77988,24,9.41,55183, employed ,Pending
+APP00298,CUST2889,Daniel Brown,02-26-2024,Personal Loan,48368,,,136599,,Rejected
+APP00592,CUST1636,,15/12/2025,Education Loan,,60,11.14,,Employed,
+APP00308,CUST2115,Daniel Anderson,2024-02-04,Mortgage,,48,4.12,126234,Student,Pending
+APP00262,CUST1857,,"December 08, 2025",personal loan,88727,24,,,employed,
+APP00782,CUST1369,Sophia Smith,14-Dec-2023,Mortgage,22197,24,,111103,Self-Employed,approved
+APP00390,CUST2321,Emma Smith,08-May-2025, Business Loan ,,60,5.13,146984, employed ,Under Review
+APP00322,CUST1233,John Johnson,2025/03/22,Personal Loan,,60,,55126,Employed,Approved
+APP00339,CUST1420,Daniel Brown,"February 07, 2024", Business Loan ,44856,48,7.5,,,Pending
+APP00867,CUST1531,Daniel Anderson,"December 08, 2024",personal loan,,24,6.27,69473,Employed, pending 
+APP00625,CUST2628,,"March 10, 2024", Business Loan ,,48,6.24,91932,Employed,Rejected
+APP00831,CUST1529,Sophia Anderson,"December 17, 2025", Business Loan ,,36,,62599, employed , pending 
+APP00489,CUST1569,,2025-02-06,Personal Loan,66813,36,5.66,44281, employed ,Under Review
+APP00667,CUST1760,Michael Anderson,12-12-2024,Education Loan,14923,36,,55929,employed,Pending
+APP00447,CUST2422,Sophia Taylor,2023-07-23, Business Loan ,,48,,145803,employed,
+APP00139,CUST1421,,03-29-2024,Mortgage,88888,,4.85,135156,employed,Approved
+APP00582,CUST2286,,2024-07-07,personal loan,,24,,,employed,Pending
+APP00763,CUST2477,,06-Feb-2026,,,48,,,Self-Employed,
+APP00128,CUST2405,Emma Brown,2024/11/08,,62552,24,14.59,,employed, pending 
+APP00350,CUST1836,Olivia Smith,25-Nov-2025,Car Loan,,48,5.51,88274,Employed,approved
+APP00523,CUST2544,Olivia Anderson,06/02/2025,personal loan,,60,11.24,99881, employed ,Pending
+APP00897,CUST1885,,2024/12/16,Education Loan,36221,36,6.82,,employed,approved
+APP00365,CUST2963,,09-21-2024,,,60,,24304,Employed,Under Review
+APP00802,CUST2317,,17-Jan-2024,Mortgage,21472,12,,,Employed,
+APP00769,CUST2883,,22-May-2024,personal loan,23338,48,12.12,52358,Student,approved
+APP00534,CUST1486,Olivia Johnson,"December 27, 2025",Education Loan,,60,13.98,112304,Unemployed,Rejected
+APP00673,CUST1307,Daniel Anderson,05/10/2023,personal loan,93220,48,13.85,,Self-Employed,Rejected
+APP00242,CUST2352,Emma Brown,28/12/2025,,,,11.7,,Self-Employed,approved
+APP00830,CUST1806,,05-20-2024,,,24,,,Unemployed,Approved
+APP00131,CUST2419,Daniel Johnson,2024/01/11,Education Loan,,24,6.68,,Unemployed,Rejected
+APP00161,CUST2586,Emma Brown,"November 14, 2024",Personal Loan,38514,60,,46593,Unemployed,approved
+APP00673,CUST2409,Emma Smith,18/08/2023,Mortgage,,,,,employed,Pending
+APP00091,CUST1494,Olivia Taylor,27-May-2024,Mortgage,94990,24,4.09,139507,Employed,Approved
+APP00755,CUST2372,Olivia Brown,12-22-2025,,53998,36,5.96,,,Rejected
+APP00819,CUST1563,John Johnson,2024/10/27,personal loan,,60,,,Self-Employed, pending 
+APP00862,CUST2158,Daniel Brown,31-Dec-2024,Mortgage,95399,36,4.68,25728, employed ,Approved
+APP00349,CUST2652,Olivia Taylor,"October 30, 2025",Personal Loan,62671,,,,Self-Employed, pending 
+APP00255,CUST2426,Michael Brown,18/03/2024, Business Loan ,76779,24,6.84,,Unemployed, pending 
+APP00878,CUST2330,Olivia Brown,2025/01/28,Mortgage,12038,60,,109138,Self-Employed,Under Review
+APP00231,CUST1583,Michael Anderson,07-26-2024, Business Loan ,17348,60,,,Employed,Approved
+APP00092,CUST2268,,18-Nov-2023,,40020,60,14.41,54897,Self-Employed,Rejected
+APP00861,CUST2454,Michael Johnson,"July 03, 2025",Education Loan,,36,,136844,Unemployed, pending 
+APP00631,CUST1132,,03-Jan-2025,Personal Loan,29643,,10.1,106212,employed,Rejected
+APP00882,CUST2993,,11-03-2025,personal loan,,,,,Unemployed, pending 
+APP00613,CUST1861,,"August 18, 2024",,,36,4.88,86705, employed ,Approved
+APP00135,CUST2832,Michael Brown,"January 05, 2026", Business Loan ,,36,,56132,,
+APP00442,CUST1133,,11-24-2023,Personal Loan,,12,7.79,72040,employed,Pending
+APP00657,CUST1049,Emma Brown,10-Dec-2024,Education Loan,,12,,,Self-Employed,approved
+APP00385,CUST2767,Michael Brown,08-21-2025,personal loan,27166,12,13.66,,Self-Employed,Rejected
+APP00531,CUST2498,Emma Johnson,10-23-2023,Mortgage,95432,48,9.92,142167,Employed, pending 
+APP00839,CUST1975,Emma Smith,14-Aug-2024,Mortgage,28990,,,,employed,Approved
+APP00172,CUST1351,,"July 12, 2024",Mortgage,,24,,,Unemployed,
+APP00105,CUST1844,John Johnson,2023/07/06,Personal Loan,63115,24,,,employed, pending 
+APP00528,CUST2903,,29-Apr-2025, Business Loan ,60676,60,,94108,, pending 
+APP00185,CUST2384,Sophia Smith,16/11/2023,Car Loan,15197,36,,, employed ,Approved
+APP00873,CUST2748,John Brown,"January 21, 2026",,68909,,,,Employed, pending 
+APP00438,CUST2771,John Brown,"October 01, 2024",Education Loan,52985,24,7.03,,Employed,Under Review
+APP00369,CUST2630,Olivia Taylor,2025/12/28,Personal Loan,46122,,,103590,employed, pending 
+APP00187,CUST1596,Olivia Johnson,07-13-2024,personal loan,77606,48,5.37,, employed ,Rejected
+APP00275,CUST2093,Olivia Anderson,"February 24, 2026",personal loan,,24,,117591,Unemployed, pending 
+APP00531,CUST2148,Olivia Taylor,2026/03/09,Personal Loan,17171,24,,111276,,Pending
+APP00653,CUST2860,John Anderson,2025/08/30, Business Loan ,,36,,,Employed,approved
+APP00398,CUST2311,Sophia Smith,2024/03/12,,,48,,,Unemployed,Approved
+APP00155,CUST2893,Sophia Smith,2024/04/13, Business Loan ,,12,6.75,,employed,Rejected
+APP00682,CUST1323,John Johnson,12-Dec-2024,Personal Loan,93214,12,4.95,128654,Employed,Approved
+APP00743,CUST2412,,2025-10-08,,,48,,27714,,Approved
+APP00182,CUST2630,John Taylor,07-Nov-2024,,97725,24,13.51,,employed,Pending
+APP00465,CUST1165,John Johnson,01-19-2024,Personal Loan,78412,,14.84,121735,Student,approved
+APP00790,CUST2130,Olivia Brown,06-21-2025, Business Loan ,84802,48,,133753,employed,Approved
+APP00535,CUST1755,Emma Brown,2023/10/12,Personal Loan,5267,,,,Employed,Under Review
+APP00829,CUST2472,Michael Anderson,04/08/2024,,,36,,36437,employed,
+APP00223,CUST2556,Olivia Smith,2024-11-27,personal loan,12376,60,13.37,119413,Student,approved
+APP00163,CUST1513,Daniel Anderson,07-14-2024,Personal Loan,56489,24,,, employed , pending 
+APP00029,CUST1022,Olivia Taylor,"October 09, 2025",Education Loan,,24,,,Unemployed,Under Review
+APP00025,CUST1964,,2026-02-19,Education Loan,,24,,,employed,Under Review
+APP00181,CUST1337,,11-11-2024,Mortgage,55603,12,,62205,employed,Approved
+APP00566,CUST2760,John Brown,2024-07-29,personal loan,90869,48,,,employed, pending 
+APP00633,CUST2214,Michael Johnson,"March 18, 2024",,85650,60,,85814, employed ,Under Review
+APP00712,CUST2951,,02-04-2025,Education Loan,76321,60,11.23,,Self-Employed,approved
+APP00818,CUST1944,,28-Dec-2024,Car Loan,,24,14.39,68587,Self-Employed,Rejected
+APP00527,CUST2026,,2023-11-27,Education Loan,,48,,61349, employed ,Approved
+APP00827,CUST1994,Emma Johnson,"January 21, 2025",Mortgage,,36,,,Employed,Rejected
+APP00397,CUST2557,Michael Brown,09-21-2024,personal loan,79639,60,,108611,Student,approved
+APP00342,CUST2607,Sophia Smith,"February 18, 2025",Personal Loan,,24,13.37,,Unemployed,Pending
+APP00425,CUST2153,,2025/01/21, Business Loan ,86465,24,5.88,,Self-Employed,
+APP00083,CUST1937,John Taylor,"November 08, 2024",Personal Loan,27133,36,,,,Pending
+APP00181,CUST1780,,"February 20, 2025", Business Loan ,,24,3.87,,Unemployed,Under Review
+APP00181,CUST1019,Michael Johnson,30-Sep-2025,Mortgage,,60,4.09,79445,Self-Employed,Rejected
+APP00013,CUST1320,Emma Johnson,06/11/2023,Education Loan,,12,10.32,, employed ,
+APP00723,CUST1745,Sophia Smith,05-Jul-2025,Mortgage,,60,,,Employed, pending 
+APP00887,CUST2785,Michael Smith,11-17-2023,Personal Loan,8787,,,,,Approved
+APP00785,CUST1418,John Taylor,12-22-2024,Education Loan,90045,36,,58901,employed,Pending
+APP00862,CUST2286,Emma Brown,07-02-2023,personal loan,58654,,,134362,Student,Under Review
+APP00241,CUST1543,Michael Brown,26/11/2023, Business Loan ,74659,48,11.85,146689,Employed,Under Review
+APP00745,CUST1983,Daniel Anderson,02-29-2024,Education Loan,,60,,57896,, pending 
+APP00657,CUST1608,,01-13-2025,,,,,55582, employed ,Under Review
+APP00119,CUST2788,,04-12-2025,,10757,12,,,Student,Pending
+APP00140,CUST2308,Sophia Brown,2025/10/27,,,24,12.75,21575,,Pending
+APP00502,CUST1569,Olivia Brown,2025/03/29,,85495,,12.35,,Student,Approved
+APP00627,CUST2063,Daniel Taylor,08-17-2024,,88844,12,5.56,,, pending 
+APP00218,CUST2569,Emma Taylor,02-07-2026,Car Loan,27241,60,,,Unemployed,approved
+APP00031,CUST1141,,2024-09-18,Car Loan,34410,48,11.22,,Self-Employed,Pending
+APP00449,CUST1225,Michael Smith,"January 12, 2025", Business Loan ,43053,48,,83012,Student,Pending
+APP00114,CUST1809,,05-Feb-2026,Car Loan,69574,48,5.43,29198,Self-Employed,Pending
+APP00866,CUST1162,,"October 12, 2025",Personal Loan,54719,12,4.79,86089,,
+APP00242,CUST1233,Daniel Brown,2024/05/22,Personal Loan,,24,,,Student,Pending
+APP00819,CUST2081,Michael Johnson,04/04/2025,Car Loan,,12,4.23,,Employed,Rejected
+APP00020,CUST2101,Emma Johnson,02-20-2024,Personal Loan,36207,,,125619, employed ,Rejected
+APP00553,CUST1993,Olivia Brown,10/07/2025,,33296,48,9.3,,Employed,Approved
+APP00552,CUST1344,,29/07/2025, Business Loan ,10856,36,10.77,, employed ,
+APP00478,CUST2886,Daniel Brown,"April 14, 2025",Mortgage,,12,11.52,,,Rejected
+APP00872,CUST1748,Sophia Taylor,2025/06/30, Business Loan ,54601,48,,129878, employed ,Under Review
+APP00900,CUST1782,,07-Dec-2023,,,,,27286,Self-Employed,Approved
+APP00824,CUST1796,Olivia Brown,2023-09-15,Personal Loan,,60,,43469,Student,
+APP00536,CUST1348,,"February 27, 2026",Personal Loan,56207,12,8.14,109761, employed ,Under Review
+APP00442,CUST1298,Olivia Smith,08-09-2025,,,60,,37314,Unemployed,
+APP00393,CUST2153,,31-Oct-2025,Car Loan,74181,,12.31,,Self-Employed,Pending
+APP00728,CUST2758,,19/08/2025,Car Loan,55000,60,9.53,42480,employed,approved
+APP00486,CUST2286,,11-03-2024, Business Loan ,25674,,8.63,53873,employed,
+APP00297,CUST1152,,2025-08-14,Car Loan,,,7.35,,Student,Pending
+APP00783,CUST1630,,25/03/2024,personal loan,,36,,35785, employed , pending 
+APP00731,CUST1504,,2025-10-18,personal loan,62100,36,,,Self-Employed,Pending
+APP00863,CUST2073,Olivia Johnson,2025/10/28, Business Loan ,,48,,128940,Student,Pending
+APP00762,CUST2161,,2024-09-15,personal loan,,60,12.12,,,Pending
+APP00650,CUST1476,,"January 22, 2026",,25563,,,123742,Unemployed,Under Review
+APP00650,CUST2469,Michael Smith,2024/04/13,Car Loan,7796,36,,,,Under Review
+APP00568,CUST1929,Sophia Anderson,2024/08/07,Education Loan,19648,,,43747,,Approved
+APP00150,CUST1367,Michael Brown,"February 14, 2025",Car Loan,,48,9.55,127438,Employed,Pending
+APP00765,CUST2674,Daniel Smith,08-05-2025, Business Loan ,69816,48,,65090,Unemployed,Rejected
+APP00550,CUST1199,John Taylor,06-13-2025,Personal Loan,,48,6.52,37847,Unemployed,approved
+APP00352,CUST2515,John Taylor,20/08/2025,Mortgage,,60,7.85,,Self-Employed,Approved
+APP00606,CUST2452,Olivia Anderson,10/12/2025,,,36,8.12,142936,Unemployed,Under Review
+APP00201,CUST2272,Olivia Brown,07/03/2025,Mortgage,33728,,14.92,133573, employed ,Pending
+APP00064,CUST2566,Olivia Brown,25/02/2026,Mortgage,92728,48,14.68,113907,Self-Employed,approved
+APP00357,CUST2447,Emma Anderson,"May 24, 2025",,12696,36,14.65,33731,Student,Under Review
+APP00374,CUST2907,Sophia Smith,11/02/2025,personal loan,,36,9.02,88573,Self-Employed, pending 
+APP00538,CUST1124,John Taylor,05-Jul-2025,personal loan,80763,,,146602,,Rejected
+APP00894,CUST2155,,16-Jan-2024,,5739,24,13.31,88054,Unemployed,approved
+APP00177,CUST1001,Emma Taylor,2025-06-05,Mortgage,,24,,, employed ,Rejected
+APP00585,CUST2291,,"December 01, 2025",,,24,,,Self-Employed,Under Review
+APP00427,CUST1692,John Smith,"July 03, 2023",,,12,,50490,,Rejected
+APP00035,CUST2193,,07-24-2025,Car Loan,,36,,110412,Employed, pending 
+APP00377,CUST2695,John Smith,19-Mar-2026,Mortgage,11912,,5.2,,Self-Employed,approved
+APP00460,CUST1473,John Anderson,26/11/2024,Education Loan,,60,,142739,Student,Under Review
+APP00820,CUST2324,,11/02/2025,Personal Loan,,,,,Employed,
+APP00033,CUST2149,Sophia Johnson,2024-09-22,Personal Loan,37272,60,8.21,,,Pending
+APP00129,CUST1517,Michael Smith,"September 20, 2023",personal loan,18587,,,48108,Student,Rejected
+APP00872,CUST2250,Daniel Smith,12/02/2024,Car Loan,,36,,,,Pending
+APP00697,CUST2272,Olivia Smith,30/04/2025, Business Loan ,,,9.64,,Unemployed,approved
+APP00437,CUST2921,Daniel Smith,23/01/2024, Business Loan ,,24,8.68,79917,Unemployed,approved
+APP00764,CUST1548,Daniel Smith,10-08-2025,Personal Loan,,36,5.78,,Unemployed,Approved
+APP00581,CUST1435,Olivia Smith,2024-05-09,Mortgage,,60,12.44,,Student, pending 
+APP00832,CUST1463,Daniel Smith,2025/08/20, Business Loan ,20988,,6.56,,,Pending
+APP00520,CUST2357,Sophia Brown,2024-06-24,Personal Loan,36884,12,4.15,,Student,Approved
+APP00767,CUST1661,Michael Taylor,05-31-2024,Car Loan,,60,6.21,23914,Unemployed,Approved
+APP00321,CUST1399,Emma Anderson,21-Oct-2024, Business Loan ,,60,,,Self-Employed,Under Review
+APP00420,CUST1155,Michael Brown,01/12/2024,Education Loan,85081,,11.04,47342,employed,approved
+APP00004,CUST1570,,2025-07-06,Education Loan,11289,24,9.46,130580,Student,
+APP00156,CUST1462,Sophia Smith,2025-08-10,Personal Loan,,12,6.08,,Employed,Pending
+APP00823,CUST1682,John Johnson,2026/02/09,Education Loan,57569,24,,61559,Employed,Rejected
+APP00122,CUST1979,Emma Taylor,2023/12/03,Mortgage,,60,11.19,,Self-Employed,Pending
+APP00155,CUST1542,Sophia Brown,"October 01, 2023", Business Loan ,,48,,35736,Employed, pending 
+APP00668,CUST1332,Olivia Brown,16/02/2026,Car Loan,,36,,,Self-Employed,Under Review
+APP00810,CUST1891,Emma Johnson,13-May-2025,personal loan,,24,,, employed ,Pending
+APP00148,CUST2029,Emma Anderson,2026-02-13,Personal Loan,,36,6.68,, employed , pending 
+APP00324,CUST2773,John Brown,30-Jan-2026,Car Loan,,60,,,Unemployed,Pending
+APP00048,CUST1237,Emma Brown,2024-11-28, Business Loan ,47267,,,,employed,Rejected
+APP00604,CUST1739,Michael Anderson,23-Sep-2024,,,36,,,Student,Pending
+APP00022,CUST2358,John Taylor,23-Jul-2024,personal loan,,,4.58,114492,Unemployed,Pending
+APP00639,CUST1261,Daniel Johnson,01-22-2024,Car Loan,,,10.22,138935,,Pending
+APP00664,CUST2679,Emma Brown,06/11/2025,Personal Loan,,12,8.27,,Employed,Under Review
+APP00848,CUST1806,Olivia Smith,19-Oct-2023,Car Loan,,12,5.31,139852,Student,approved
+APP00619,CUST1658,Michael Brown,02-06-2026,,64985,36,,66036,,Approved
+APP00717,CUST2171,John Taylor,09-01-2024,Mortgage,,24,,,Student,Rejected
+APP00694,CUST2455,,2025-05-07,Mortgage,,,12.25,,Student, pending 
+APP00615,CUST1629,John Smith,2025/10/07,personal loan,98503,60,7.77,,,Rejected
+APP00323,CUST1565,John Johnson,09-19-2023,,30600,60,,, employed ,Rejected
+APP00279,CUST1913,Sophia Anderson,2024/09/20,Personal Loan,64027,48,,126463, employed ,Pending
+APP00075,CUST2542,John Brown,17-May-2024,Car Loan,,12,8.99,46355,Unemployed,Approved
+APP00892,CUST2159,Michael Brown,"October 14, 2025",Personal Loan,97478,24,,73230, employed ,approved
+APP00824,CUST2359,Emma Johnson,2024-01-25,Car Loan,,12,14.8,21877,employed, pending 
+APP00896,CUST1430,Michael Brown,"January 28, 2026", Business Loan ,,24,,,,Pending
+APP00057,CUST2021,Sophia Johnson,09-Aug-2023,,64932,36,,,employed,approved
+APP00400,CUST2039,John Smith,24-Dec-2024,,54062,48,8.85,63036, employed ,
+APP00515,CUST2498,John Taylor,21-Jan-2025,Mortgage,96555,48,,,employed,Approved
+APP00571,CUST2451,,2024/03/20,Education Loan,86554,,4.68,,employed,
+APP00494,CUST2081,,2026/02/16,Education Loan,86411,12,6.22,61623,Student, pending 
+APP00209,CUST1569,Daniel Smith,2023/08/09,Car Loan,,24,10.66,,employed,Approved
+APP00727,CUST1596,Daniel Johnson,02-17-2024,Personal Loan,,60,10.54,72964,Employed,
+APP00829,CUST1906,Daniel Anderson,07-08-2023,,,48,6.65,,Employed,approved
+APP00591,CUST1901,Daniel Johnson,03-01-2025,personal loan,,60,,,Student,Rejected
+APP00848,CUST1043,Emma Smith,08-30-2025,Education Loan,37978,24,,,Self-Employed,Approved
+APP00372,CUST1554,Daniel Johnson,2026/01/28,,,60,5.14,,employed,approved
+APP00407,CUST1364,Emma Johnson,"August 25, 2025",Mortgage,25030,24,,75120,Student,Under Review
+APP00841,CUST2814,Daniel Brown,05-Aug-2024,Mortgage,,24,7.26,,employed,
+APP00079,CUST2379,Sophia Taylor,22/05/2025,Mortgage,,24,,28700,Unemployed,Approved
+APP00309,CUST1772,,10-30-2023,Education Loan,,12,,57941,Student,approved
+APP00207,CUST2522,Sophia Johnson,"July 02, 2024", Business Loan ,,48,8.49,121684,Employed, pending 
+APP00148,CUST2639,,01/10/2024,,,12,5.51,, employed ,Under Review
+APP00519,CUST1395,Sophia Brown,2024/05/09,,78830,12,7.47,,Employed,Rejected
+APP00335,CUST2247,,11/07/2025, Business Loan ,89494,,10.08,130876,Unemployed,Rejected
+APP00640,CUST1811,Emma Taylor,01/12/2025,,70276,,6.27,126891,Unemployed,approved
+APP00513,CUST2810,Olivia Johnson,"June 01, 2024",Education Loan,27073,12,10.63,30738,Employed,
+APP00891,CUST2627,John Anderson,2025-05-11,Mortgage,,36,5.59,,Self-Employed,approved
+APP00482,CUST2846,Emma Johnson,08-20-2024,,,12,,111835,Employed, pending 
+APP00720,CUST1655,Michael Smith,14-Oct-2023,Car Loan,28325,48,14.69,,employed,approved
+APP00296,CUST2721,John Smith,2025/09/22,personal loan,,60,,84138,, pending 
+APP00111,CUST1027,Emma Taylor,2025/01/26,Car Loan,,60,4.96,135840,Employed,
+APP00284,CUST2038,Emma Smith,09-13-2023,,,36,,,Self-Employed,approved
+APP00562,CUST1112,Michael Smith,11-15-2024,,,48,3.75,43850,Unemployed,
+APP00097,CUST2197,Sophia Johnson,"September 27, 2024",Personal Loan,77583,48,,,employed,
+APP00675,CUST2291,,"September 07, 2024",Car Loan,25860,60,,45757,Self-Employed,approved
+APP00655,CUST1900,,"May 28, 2024",Education Loan,,24,,,Student, pending 
+APP00894,CUST1753,Daniel Taylor,2023-11-21,Mortgage,,48,,83457,Employed,Pending
+APP00204,CUST2547,,28/12/2024, Business Loan ,91843,48,9.33,,Employed,approved
+APP00264,CUST1950,Sophia Smith,23-Mar-2026,Mortgage,,24,5.1,84200,,approved
+APP00012,CUST2640,Daniel Anderson,"May 03, 2024",Mortgage,,60,6.71,,Self-Employed,Approved
+APP00192,CUST2442,Daniel Johnson,2023-11-22,personal loan,37651,48,,74775,, pending 
+APP00126,CUST2329,Olivia Anderson,2026/03/18,Car Loan,18146,,6.42,47442, employed ,Pending
+APP00229,CUST1730,Michael Johnson,19-Feb-2025,,,12,,,Student,Under Review
+APP00538,CUST1395,John Johnson,"May 10, 2024",personal loan,,48,,106371,Student, pending 
+APP00323,CUST2733,Olivia Brown,02/03/2026,Education Loan,76061,60,8.47,,Student,Under Review
+APP00472,CUST2919,Daniel Taylor,2025/05/19,personal loan,56475,24,,109783,Unemployed,Rejected
+APP00154,CUST1220,John Taylor,05/12/2024,personal loan,,24,,,Student,
+APP00287,CUST2519,Emma Taylor,2024/01/18,Mortgage,29644,48,,,, pending 
+APP00346,CUST1872,John Smith,2024-04-26,Education Loan,,,12.14,,Self-Employed,Approved
+APP00055,CUST1012,Michael Taylor,2024-11-13,Education Loan,55676,60,,,,
+APP00030,CUST1456,,31/01/2026,,,48,5.53,25748,Unemployed,Pending
+APP00138,CUST1102,Michael Smith,2026/01/22,Education Loan,59374,12,,,Unemployed,approved
+APP00087,CUST1065,Olivia Johnson,2023-12-28,personal loan,,,8.07,84024,Self-Employed,
+APP00592,CUST1625,,"March 14, 2026",Car Loan,51845,,,,employed,Approved
+APP00734,CUST1677,Emma Smith,08-16-2023,Mortgage,25557,48,,101801, employed ,Approved
+APP00218,CUST1961,John Johnson,12-25-2023,Education Loan,,12,,74620,,Under Review
+APP00807,CUST2289,,01-22-2025,,6659,48,,,Self-Employed, pending 
+APP00428,CUST2221,John Smith,20-Mar-2024,Personal Loan,21431,12,,53589,employed,Under Review
+APP00129,CUST1223,Emma Smith,2023-11-25,Car Loan,,60,,117013,Employed,Approved
+APP00299,CUST2422,Emma Smith,11-15-2024, Business Loan ,96230,24,13.92,98869, employed ,
+APP00172,CUST2572,Daniel Taylor,11-13-2023,Mortgage,,48,8.01,,Student,approved
+APP00746,CUST1778,Olivia Smith,09-Oct-2023,Mortgage,,36,,, employed ,Approved
+APP00688,CUST2235,,01-Mar-2025,Car Loan,68070,,,,Employed,Pending
+APP00553,CUST1240,,2024-08-18,Car Loan,52860,,12.99,96868,Student,Rejected
+APP00349,CUST2917,Sophia Johnson,06-13-2025,Education Loan,44607,,9.73,,Employed,
+APP00844,CUST2983,Michael Johnson,"August 08, 2024",Personal Loan,89356,,,142639,Unemployed, pending 
+APP00307,CUST1227,Sophia Johnson,2023-10-10,Education Loan,,12,10.01,87662,,Rejected
+APP00065,CUST1535,Emma Johnson,2023-11-24,personal loan,46832,48,,71010,Self-Employed,Approved
+APP00028,CUST1039,Michael Anderson,21/06/2024,Education Loan,74363,48,11.7,77298,Employed,Rejected
+APP00227,CUST2929,,10-Nov-2025,Mortgage,,36,14.41,27809,Self-Employed,Rejected
+APP00040,CUST1927,Olivia Smith,22-Aug-2025,Mortgage,59175,,,108267, employed ,
+APP00849,CUST1265,,2026/02/18,Education Loan,,12,,79395,employed,approved
+APP00535,CUST1545,,"November 11, 2024",Mortgage,71490,,4.21,,Employed,
+APP00164,CUST2564,Daniel Taylor,28/03/2025,personal loan,,48,13.71,,,Pending
+APP00250,CUST2343,,2025-03-14,Car Loan,86063,60,,107837,Employed,Approved
+APP00164,CUST2179,,04/12/2023, Business Loan ,,24,6.39,61126, employed ,Under Review
+APP00491,CUST1178,,2025-02-24,personal loan,,60,10.06,, employed ,Approved
+APP00035,CUST2923,Olivia Anderson,2024/02/15,Car Loan,14835,12,12.85,131419,, pending 
+APP00426,CUST2152,,2023-08-11,personal loan,,24,10.44,37964,Student,Rejected
+APP00111,CUST2277,Michael Anderson,03-Feb-2026,Mortgage,,24,,,employed,Rejected
+APP00033,CUST2261,,2024/02/11,Education Loan,,48,,20679, employed ,Under Review
+APP00696,CUST2075,Daniel Johnson,2025/07/30, Business Loan ,64908,36,4.23,,,Approved
+APP00489,CUST2453,Sophia Johnson,16-Apr-2025,Car Loan,75477,48,,,employed,Under Review
+APP00537,CUST1449,Emma Brown,07-Mar-2025,Car Loan,,24,,75797,Unemployed,Rejected
+APP00521,CUST2755,Daniel Taylor,11/12/2023,,75510,60,,,Student, pending 
+APP00543,CUST1562,Olivia Taylor,03-20-2026, Business Loan ,,,,106824,Student,Under Review
+APP00217,CUST1074,John Anderson,08-Feb-2024,Car Loan,,24,11.99,138135,Employed,approved
+APP00136,CUST1586,,04/12/2025,Car Loan,36659,48,8.63,,Unemployed,approved
+APP00536,CUST1611,John Brown,"December 23, 2025", Business Loan ,,24,,128711,Unemployed,Under Review
+APP00818,CUST1736,,2024-01-18,Education Loan,85257,24,6.53,39579,Self-Employed,approved
+APP00168,CUST2844,Michael Anderson,09/01/2025, Business Loan ,,24,8.29,,Self-Employed,
+APP00240,CUST1298,Daniel Smith,2025-01-25,Education Loan,35041,48,4.86,,employed,Rejected
+APP00358,CUST2614,John Taylor,"March 10, 2025",Personal Loan,,12,10.39,,Unemployed,approved
+APP00173,CUST2298,Daniel Smith,20/08/2023,personal loan,41127,48,14.84,89325,Employed,Pending
+APP00232,CUST2642,Michael Anderson,"August 08, 2023",Education Loan,20941,48,5.25,92339, employed ,Rejected
+APP00870,CUST1057,,2025-05-25, Business Loan ,92198,,,25390,Self-Employed,Pending
+APP00323,CUST1259,Sophia Taylor,2023/07/03,Education Loan,96752,24,,140489,Unemployed,
+APP00430,CUST2694,Olivia Anderson,2023/10/29,,7156,,10.17,,, pending 
+APP00772,CUST2936,Michael Anderson,11-Apr-2024,Education Loan,,36,,84146,Employed,Under Review
+APP00608,CUST2275,Daniel Taylor,"December 31, 2023",,65630,60,,,Employed,
+APP00885,CUST2401,,14-Sep-2024, Business Loan ,,,,108260,Self-Employed, pending 
+APP00046,CUST1457,,23-Jun-2025,Mortgage,12578,,9.34,,,Rejected
+APP00093,CUST2731,Michael Anderson,23-Nov-2025,,92063,36,,,,Approved
+APP00768,CUST2094,Daniel Brown,28-Jul-2023,personal loan,,,5.93,56466,Student,approved
+APP00536,CUST2345,,05-Jun-2024,Mortgage,44717,12,6.8,,Employed,Rejected
+APP00113,CUST1471,Michael Johnson,"April 27, 2025",Education Loan,13229,48,,144862,Student,approved
+APP00021,CUST2358,,2025/10/10,Mortgage,59186,60,13.48,24590,,
+APP00525,CUST2105,Michael Brown,2024/10/14,Education Loan,,12,13.65,, employed ,Approved
+APP00806,CUST2632,,10-26-2025,,78670,12,,146933,Self-Employed,Under Review
+APP00834,CUST2877,Daniel Taylor,07-24-2023,Car Loan,97649,,8.9,89119,Self-Employed, pending 
+APP00782,CUST1349,,09-13-2023,,,60,,50376,Unemployed,approved
+APP00425,CUST1926,Sophia Taylor,20-Jan-2025,Mortgage,,36,,22025,Student, pending 
+APP00746,CUST2896,Michael Brown,2025/02/15,Car Loan,30793,,8.86,142479,Unemployed, pending 
+APP00004,CUST2405,,2025-02-16,Mortgage,55146,48,,,Employed,Pending
+APP00097,CUST2145,,03-15-2024,,,60,6.25,,Self-Employed,Rejected
+APP00112,CUST1248,Sophia Johnson,2024/07/27,Mortgage,43553,48,,100640,employed,Pending
+APP00791,CUST1297,John Taylor,2026/01/14,Car Loan,63217,36,,40047, employed ,Approved
+APP00122,CUST1749,Emma Anderson,02-15-2024,personal loan,,36,10.67,36528,Self-Employed,Under Review
+APP00482,CUST2626,Olivia Smith,26-Jan-2026,Education Loan,35288,12,,121426, employed ,approved
+APP00880,CUST2812,,07-22-2025,Education Loan,,48,6.68,49638,Self-Employed,Pending
+APP00273,CUST1514,Olivia Taylor,2025/10/21,Mortgage,82022,,3.8,,Unemployed,Pending
+APP00707,CUST1822,Sophia Smith,01-Jan-2025,Education Loan,56042,60,,,Employed,
+APP00271,CUST2348,Daniel Johnson,2025-08-04,Personal Loan,8733,48,,,Self-Employed,Pending
+APP00765,CUST1565,Daniel Anderson,26/10/2023,Personal Loan,97263,24,11.64,26118,Unemployed,Rejected
+APP00528,CUST2377,Sophia Taylor,"March 08, 2025",personal loan,53309,12,,,employed,Pending
+APP00387,CUST1697,Sophia Smith,22-Aug-2024,Education Loan,,,,, employed ,
+APP00196,CUST1321,Emma Anderson,26-May-2025,Mortgage,,48,,60336,Self-Employed,
+APP00055,CUST2354,Michael Anderson,03-07-2025,Personal Loan,,24,,119736,Self-Employed, pending 
+APP00592,CUST1550,Emma Taylor,2024-05-22,personal loan,,60,9.87,, employed ,Rejected
+APP00535,CUST2305,Emma Brown,08-27-2025,,75705,48,,85004,Employed, pending 
+APP00805,CUST1348,Olivia Taylor,20-Jan-2025,Education Loan,5904,36,,,Student,Under Review
+APP00350,CUST2101,,2025-03-10,personal loan,,24,7.8,, employed ,Under Review
+APP00513,CUST2815,Olivia Johnson,2025/06/08, Business Loan ,34603,36,,60144,Employed,Pending
+APP00687,CUST1828,Emma Taylor,"July 09, 2024",Mortgage,,12,,,Employed,Rejected
+APP00312,CUST2945,Emma Anderson,17-Nov-2023,personal loan,37433,36,,,Employed,
+APP00472,CUST2986,Sophia Anderson,"August 22, 2025",personal loan,,48,10.89,,Self-Employed,approved
+APP00298,CUST2680,,2026/02/25,Mortgage,19391,12,4.82,,employed,Pending
+APP00429,CUST2809,Olivia Brown,2024/10/19,Mortgage,93773,12,14.51,,Self-Employed,Rejected
+APP00059,CUST2523,Emma Taylor,2024/05/13,Education Loan,,60,,,,Under Review
+APP00620,CUST1032,Sophia Johnson,"April 13, 2024",Mortgage,,12,,,Student,Approved
+APP00587,CUST1973,Michael Johnson,12-22-2023,Education Loan,,,11.22,59280,Self-Employed, pending 
+APP00427,CUST1012,Michael Taylor,21/09/2024, Business Loan ,,12,,,Student,Under Review
+APP00377,CUST1594,Sophia Anderson,12-10-2023,Personal Loan,,,12.62,,Unemployed, pending 
+APP00111,CUST2210,Michael Smith,2025/05/19,Education Loan,,12,,104817,Self-Employed,Approved
+APP00630,CUST1193,Michael Brown,2025-10-14, Business Loan ,75676,36,,,Employed,approved
+APP00798,CUST1975,Michael Taylor,2024-09-24,Car Loan,32450,12,,,,approved
+APP00592,CUST1564,John Anderson,10-03-2025, Business Loan ,51458,36,,85684,Employed,Under Review
+APP00210,CUST2016,,26-Sep-2023,personal loan,56704,60,,,,Approved
+APP00787,CUST2155,,2024/10/06,personal loan,38698,60,,,,Under Review
+APP00187,CUST1163,Emma Anderson,25-Aug-2025, Business Loan ,84707,24,,,Employed,Pending
+APP00803,CUST2321,,06-16-2024,Mortgage,,60,,, employed ,Rejected
+APP00412,CUST1959,John Brown,2024-02-18,Car Loan,29966,60,,52178,,Under Review
+APP00201,CUST2302,,18/01/2025,Education Loan,32491,,9.89,,,Approved
+APP00430,CUST1745,Michael Smith,01-Dec-2025,Personal Loan,85229,36,4.66,,Student,Approved
+APP00192,CUST1408,Sophia Brown,10-05-2024,Mortgage,54037,12,,,Self-Employed,Under Review
+APP00492,CUST2361,Sophia Taylor,"August 08, 2023", Business Loan ,,60,,51265,Unemployed,
+APP00368,CUST2009,Daniel Brown,15-Jul-2025, Business Loan ,99975,48,4.8,, employed , pending 
+APP00667,CUST1820,,15-Oct-2024,personal loan,47577,24,,114033,Employed,Pending
+APP00665,CUST2435,Daniel Anderson,2023-10-27,,,60,,,Employed,Pending
+APP00758,CUST2558,John Brown,13/03/2025,Car Loan,,48,4.5,147002,employed,Approved
+APP00760,CUST1238,John Johnson,03-07-2026,personal loan,,,,,employed,Rejected
+APP00092,CUST2601,,19/03/2026, Business Loan ,,36,6.7,57611,Self-Employed, pending 
+APP00899,CUST1696,John Smith,28/01/2024,Personal Loan,,,,,employed,Approved
+APP00830,CUST2661,Sophia Smith,2025/06/26, Business Loan ,,12,14.46,83129, employed ,
+APP00862,CUST2409,Michael Johnson,04-20-2024,Education Loan,90521,36,10.89,72886, employed ,approved
+APP00414,CUST1346,Emma Taylor,"April 17, 2025",Mortgage,27644,60,4.7,,,Under Review
+APP00106,CUST2963,,06-07-2024,Mortgage,86324,60,11.34,,Self-Employed, pending 
+APP00250,CUST2988,Emma Brown,13-Oct-2024,Personal Loan,,12,7.51,, employed ,Approved
+APP00097,CUST2017,Daniel Brown,2025-09-04,,,60,,52148,,approved
+APP00041,CUST1864,Michael Brown,31-Jul-2023, Business Loan ,,48,3.51,41072,Student,
+APP00153,CUST1252,Sophia Johnson,07-22-2023,Education Loan,61913,36,,102008,, pending 
+APP00128,CUST1533,,25/05/2024,,,24,3.56,82402,Employed,
+APP00568,CUST2641,Olivia Brown,22-Oct-2025,personal loan,91525,60,9.5,90505,Self-Employed,Pending
+APP00260,CUST1700,Michael Johnson,2026/01/24,Education Loan,72153,60,,139900,Unemployed,Under Review
+APP00328,CUST1293,,"July 07, 2024",Car Loan,66235,36,12.09,62519,Self-Employed,Pending
+APP00563,CUST2855,Olivia Taylor,"October 28, 2025",Education Loan,,60,,94532,Employed,Approved
+APP00441,CUST1649,Michael Anderson,08-01-2024,Car Loan,29696,36,,112723, employed , pending 
+APP00751,CUST2583,Olivia Johnson,03-25-2026, Business Loan ,33933,48,13.25,,Self-Employed,Pending
+APP00717,CUST1343,John Smith,2026/03/08,Mortgage,,48,,,,Rejected
+APP00529,CUST1399,John Anderson,"February 16, 2026", Business Loan ,96858,36,,144351,employed,Approved
+APP00551,CUST2584,John Taylor,"June 09, 2025",,99130,36,,,Employed, pending 
+APP00344,CUST2280,John Brown,2025/09/18, Business Loan ,6537,24,13.94,,employed,Under Review
+APP00437,CUST2251,John Johnson,07/12/2024,Mortgage,87895,36,12.42,,Unemployed,Rejected
+APP00851,CUST1582,Michael Brown,2025/03/09,Mortgage,,48,6.67,, employed ,Under Review
+APP00492,CUST1462,Michael Brown,2024/04/06,personal loan,20163,12,,, employed ,approved
+APP00196,CUST1280,,2025-07-04,Mortgage,24930,36,,,employed,Approved
+APP00549,CUST2378,John Brown,11-01-2023,Education Loan,6075,60,,,Unemployed, pending 
+APP00417,CUST1181,,13-Jun-2025,personal loan,53221,12,,108671,Student,Pending
+APP00885,CUST2688,Emma Johnson,19/12/2023,personal loan,71490,24,14.83,117166,Employed, pending 
+APP00655,CUST1826,Olivia Johnson,06-Apr-2025,Personal Loan,83405,,,95297,Student,Rejected
+APP00794,CUST1993,Michael Johnson,22-Sep-2025, Business Loan ,,60,,72471,employed,approved
+APP00262,CUST2065,Daniel Anderson,2023/10/27,Personal Loan,,60,13.3,,employed,approved
+APP00438,CUST1307,Emma Taylor,2023/10/01,Mortgage,,24,9.89,76080,Unemployed,Rejected
+APP00900,CUST2579,,10-Mar-2025,personal loan,,,,22270,Student,Rejected
+APP00885,CUST2053,Daniel Brown,2023-08-04,personal loan,49300,36,11.9,,Employed,Under Review
+APP00655,CUST2167,John Anderson,2025-10-27, Business Loan ,74096,36,,108249, employed ,Pending
+APP00328,CUST1206,Olivia Taylor,12-21-2023,Car Loan,,12,9.46,,Student,Under Review
+APP00645,CUST2566,,08-09-2023,Mortgage,19312,24,3.88,,Employed,approved
+APP00206,CUST1377,Michael Brown,2025-10-12,personal loan,,36,,76590,employed,Approved
+APP00030,CUST2744,,30-Jul-2024,,,,4.76,,,Approved
+APP00627,CUST2143,,07-25-2025,Mortgage,40565,,8.59,,Student,Under Review
+APP00066,CUST2645,Olivia Anderson,2024/02/13,personal loan,99446,48,,,Unemployed,approved
+APP00363,CUST1845,,16-Feb-2024,Car Loan,,36,4.0,,,
+APP00814,CUST1560,Olivia Anderson,03/01/2026,personal loan,57714,12,14.99,,employed,
+APP00783,CUST1629,Sophia Taylor,2023/12/08,Mortgage,,48,,116646,,approved
+APP00828,CUST2739,Olivia Taylor,16/06/2024,personal loan,89699,48,4.99,,Student,Pending
+APP00102,CUST1264,Olivia Anderson,"August 22, 2025",Car Loan,,60,13.0,61578,,Under Review
+APP00744,CUST1491,Olivia Smith,12-Nov-2025,,,24,,,Unemployed,Under Review
+APP00160,CUST2201,,08/11/2025,Car Loan,,24,11.6,117800,Employed,
+APP00785,CUST2322,John Johnson,2026-02-03,Car Loan,,24,4.79,37458,,Under Review
+APP00519,CUST1140,,18-Jul-2023,Education Loan,,24,5.74,97665,,Rejected
+APP00844,CUST1101,Daniel Taylor,2025/11/25,Car Loan,43859,36,,60720,employed,Pending
+APP00778,CUST1081,,12-12-2023,Mortgage,,48,,,Unemployed,approved
+APP00204,CUST2172,John Anderson,"August 09, 2025",Car Loan,27300,48,11.86,,Unemployed,Under Review
+APP00428,CUST1670,John Brown,"February 12, 2024",,,24,6.56,, employed ,
+APP00503,CUST1473,John Johnson,01-Jan-2025,Car Loan,61822,12,,110998,Employed,Rejected
+APP00025,CUST2190,Daniel Taylor,20-Dec-2024,Car Loan,35272,48,8.77,,Student,
+APP00810,CUST2733,Olivia Taylor,10/07/2023,personal loan,,48,,,employed,
+APP00131,CUST1963,,"May 24, 2024", Business Loan ,,60,,37220, employed ,Pending
+APP00002,CUST1176,Michael Taylor,08-23-2025,Education Loan,12965,24,8.97,, employed ,Approved
+APP00145,CUST2342,Daniel Taylor,"January 07, 2026",Education Loan,69027,36,14.82,,Self-Employed,Approved
+APP00553,CUST1316,Olivia Brown,"August 23, 2025",Personal Loan,69627,36,5.31,,Unemployed,approved
+APP00064,CUST1719,Emma Johnson,"September 19, 2024",personal loan,30179,60,11.43,126372,Employed,
+APP00865,CUST2658,Sophia Smith,11-25-2023, Business Loan ,,36,,,Self-Employed,Approved
+APP00865,CUST2002,Emma Taylor,23/02/2024,Car Loan,89780,36,,, employed ,Approved
+APP00866,CUST1892,Emma Taylor,2023/07/12,Personal Loan,39734,36,,67921, employed ,Under Review
+APP00698,CUST2714,Emma Smith,24/12/2023,Mortgage,,48,,,Student,Approved
+APP00221,CUST2777,Daniel Taylor,"September 08, 2023",Mortgage,83761,,5.7,61698,Unemployed, pending 
+APP00571,CUST2091,,23/01/2026,Education Loan,52575,,,,Employed,Under Review
+APP00142,CUST2090,,02/08/2023,Car Loan,,36,,,employed,Rejected
+APP00087,CUST1548,Emma Smith,"May 17, 2024", Business Loan ,,,,103160,employed,Pending
+APP00276,CUST1563,,12/11/2023,Mortgage,9837,24,,,Unemployed, pending 
+APP00854,CUST1204,John Taylor,07/03/2025,Education Loan,62441,60,8.57,,Self-Employed, pending 
+APP00120,CUST2094,,17-Mar-2024,personal loan,,24,,, employed ,Rejected
+APP00224,CUST2826,Olivia Brown,15-Jul-2024,,43578,,9.26,75064,,approved
+APP00084,CUST1918,Daniel Smith,19/03/2025,Personal Loan,,36,12.11,33332,Unemployed,Rejected
+APP00861,CUST1988,Olivia Smith,"January 20, 2024",personal loan,48620,24,,46530, employed ,Under Review
+APP00408,CUST2359,,2023/12/01,Mortgage,,,8.44,90959,Employed, pending 
+APP00484,CUST2813,,2025/09/19,Car Loan,34884,36,,90719,Employed,
+APP00872,CUST2593,,"January 18, 2026",,83171,,,,Employed,Pending
+APP00257,CUST2556,John Brown,2023-09-11,Personal Loan,,,,136106,Unemployed,Approved
+APP00577,CUST2045,Daniel Taylor,10/09/2024,Education Loan,64841,24,13.19,57530, employed ,Rejected
+APP00638,CUST1817,Daniel Smith,2024/01/06,Mortgage,97774,36,8.07,,Student,
+APP00478,CUST1935,Michael Anderson,04/03/2026,Education Loan,33882,60,,90864, employed ,
+APP00604,CUST1862,John Brown,"September 21, 2025",Mortgage,,12,,23173,employed,approved
+APP00420,CUST1350,Emma Smith,2024-10-20,personal loan,,,,,Employed,Pending
+APP00873,CUST2966,John Anderson,07-01-2024,Car Loan,,24,13.97,88060, employed ,
+APP00490,CUST2190,John Anderson,02-27-2025,Personal Loan,,,,84838,Student,Approved
+APP00406,CUST1282,,09-06-2025,personal loan,,12,,,,approved
+APP00566,CUST1504,Emma Johnson,2024/03/17,personal loan,,60,5.33,47870,employed,Pending
+APP00715,CUST2459,John Taylor,2024-08-17,personal loan,,12,8.82,,Unemployed,Rejected
+APP00263,CUST1617,John Smith,30/06/2025,Personal Loan,,24,,,,Rejected
+APP00735,CUST1889,,"August 18, 2023",,,12,7.99,, employed ,Pending
+APP00808,CUST2493,Olivia Taylor,04-Dec-2025,Education Loan,8510,48,5.84,112824,Student,approved
+APP00316,CUST2543,,15-Oct-2025,personal loan,,,,,Unemployed,Under Review
+APP00337,CUST1482,Daniel Smith,2023-10-10,Car Loan,,12,,26826,employed,
+APP00814,CUST2468,Olivia Johnson,2024/12/18,Car Loan,68776,12,,,Unemployed,Pending
+APP00782,CUST1381,John Johnson,15/01/2025,Education Loan,,12,9.92,, employed ,Pending
+APP00398,CUST2245,,31/08/2024,Personal Loan,,60,,,,Under Review
+APP00197,CUST2771,Daniel Johnson,06-20-2024,Mortgage,66562,48,4.33,,Student,Under Review
+APP00469,CUST1186,John Johnson,08/02/2026,Mortgage,72176,36,4.52,,Self-Employed,Approved
+APP00169,CUST1722,,19/10/2023,Car Loan,,24,,35652,,Approved
+APP00636,CUST2048,Sophia Smith,02-26-2026,Personal Loan,79133,,10.34,75224,Student,Pending
+APP00405,CUST2220,Michael Brown,30-Nov-2025,Mortgage,,36,,, employed ,Approved
+APP00683,CUST1360,,2024/03/22,Car Loan,,12,,,Unemployed,Pending
+APP00162,CUST1230,John Johnson,14-Feb-2024,Education Loan,61663,24,,54918,Student,Rejected
+APP00258,CUST1088,,"July 07, 2024",Car Loan,,12,7.76,136091,,Approved
+APP00466,CUST1264,Emma Anderson,02-13-2024,Mortgage,10313,24,,,employed,Pending
+APP00099,CUST2960,Emma Brown,"October 31, 2025", Business Loan ,70369,24,,,,
+APP00433,CUST2232,Emma Smith,23-Feb-2024,Mortgage,13240,12,12.69,63778,employed,Pending
+APP00013,CUST2694,Daniel Brown,2023/10/25,Car Loan,88053,48,,78098,Self-Employed,Under Review
+APP00268,CUST1108,,"December 04, 2025",personal loan,41496,36,,126520,,Rejected
+APP00159,CUST2658,Michael Brown,08-Jan-2026,Car Loan,80156,,14.79,30188,employed, pending 
+APP00412,CUST1194,Emma Smith,12-Jan-2026,Car Loan,,60,,,Employed,Approved
+APP00501,CUST2618,,2023-12-26,Education Loan,,,13.87,,Student,approved
+APP00359,CUST2523,Sophia Anderson,06-Mar-2024,Car Loan,36268,48,,116795,Employed,Pending
+APP00553,CUST2930,,07/11/2023,Education Loan,19786,24,14.36,,Employed,Approved
+APP00427,CUST1692,John Smith,"July 03, 2023",,,12,,50490,,Rejected
+APP00181,CUST1337,,11-11-2024,Mortgage,55603,12,,62205,employed,Approved
+APP00882,CUST2993,,11-03-2025,personal loan,,,,,Unemployed, pending 
+APP00052,CUST1606,John Taylor,2025-11-02,Car Loan,,24,,138112,Unemployed,Under Review
+APP00202,CUST1359,John Anderson,19/05/2024,Personal Loan,,12,12.24,136538,Student,Approved
+APP00106,CUST2963,,06-07-2024,Mortgage,86324,60,11.34,,Self-Employed, pending 
+APP00139,CUST1439,,"December 19, 2024",Personal Loan,37669,12,,72383,Unemployed,Under Review
+APP00698,CUST1969,,08-21-2023,personal loan,,36,,, employed ,Rejected
+APP00437,CUST2921,Daniel Smith,23/01/2024, Business Loan ,,24,8.68,79917,Unemployed,approved
+APP00247,CUST1684,Michael Johnson,04/09/2023,Mortgage,62511,48,8.24,148134,employed,
+APP00565,CUST1037,,2024/11/22,Car Loan,,,,,employed,approved
+APP00592,CUST1564,John Anderson,10-03-2025, Business Loan ,51458,36,,85684,Employed,Under Review
+APP00577,CUST2045,Daniel Taylor,10/09/2024,Education Loan,64841,24,13.19,57530, employed ,Rejected
+APP00649,CUST2709,,11-28-2025, Business Loan ,,,8.62,80347,Student,Rejected
+APP00859,CUST2810,Olivia Anderson,11-07-2025,Education Loan,30632,24,14.97,23850, employed ,Pending
+APP00684,CUST2371,Olivia Brown,22-Jul-2025,personal loan,26090,36,14.79,107186,Self-Employed,Pending
+APP00296,CUST2721,John Smith,2025/09/22,personal loan,,60,,84138,, pending 
+APP00608,CUST2275,Daniel Taylor,"December 31, 2023",,65630,60,,,Employed,
+APP00239,CUST1656,Olivia Anderson,"November 24, 2024",Education Loan,,,,53662,Student,Rejected
+APP00186,CUST1679,,01-11-2026,Education Loan,,12,,116167,,Approved
+APP00696,CUST2797,John Brown,05-Aug-2024, Business Loan ,,,8.75,,Self-Employed, pending 
+APP00340,CUST2727,Michael Taylor,2023-12-20,personal loan,59082,12,9.08,124787,Employed,Rejected
+APP00877,CUST2729,Emma Smith,"March 01, 2025",Personal Loan,31848,36,7.5,,Unemployed,approved
+APP00783,CUST2726,Olivia Brown,2023/07/15,Education Loan,,,3.77,,Student,Rejected
+APP00060,CUST2015,,"March 03, 2025",Car Loan,57012,12,4.42,, employed ,Rejected
+APP00224,CUST2826,Olivia Brown,15-Jul-2024,,43578,,9.26,75064,,approved
+APP00323,CUST1259,Sophia Taylor,2023/07/03,Education Loan,96752,24,,140489,Unemployed,
+APP00141,CUST1179,Olivia Brown,"November 24, 2025",Personal Loan,,,14.6,44837,Employed,
+APP00889,CUST2009,Michael Taylor,05-29-2024,,42093,48,,,, pending 
+APP00326,CUST1359,,30-Jan-2026,Education Loan,,,,69390,,Approved
+APP00350,CUST1836,Olivia Smith,25-Nov-2025,Car Loan,,48,5.51,88274,Employed,approved
+APP00360,CUST1509,Olivia Anderson,07-09-2024,Car Loan,44392,,,26556,Employed, pending 
+APP00029,CUST2193,John Brown,03-Jul-2024,Personal Loan,,,,,,Under Review
+APP00887,CUST1909,Emma Anderson,09-08-2023, Business Loan ,31633,60,4.0,,Student,Under Review
+APP00836,CUST1598,John Anderson,31-Oct-2023,Personal Loan,,,9.89,92592,employed,Pending
+APP00437,CUST2251,John Johnson,07/12/2024,Mortgage,87895,36,12.42,,Unemployed,Rejected
+APP00595,CUST1715,,"November 27, 2023", Business Loan ,,36,,,,Rejected
+APP00079,CUST2379,Sophia Taylor,22/05/2025,Mortgage,,24,,28700,Unemployed,Approved
+APP00065,CUST1535,Emma Johnson,2023-11-24,personal loan,46832,48,,71010,Self-Employed,Approved
+APP00386,CUST1987,John Brown,23/07/2023,Education Loan,48859,12,,82657,Self-Employed,Approved
+APP00734,CUST1677,Emma Smith,08-16-2023,Mortgage,25557,48,,101801, employed ,Approved
+APP00482,CUST2221,Olivia Taylor,2024/10/12, Business Loan ,68710,60,8.04,,Self-Employed,Approved
+APP00586,CUST2921,,2024/06/20,Personal Loan,,,5.73,119740,,approved
+APP00577,CUST2045,Daniel Taylor,10/09/2024,Education Loan,64841,24,13.19,57530, employed ,Rejected
+APP00079,CUST2379,Sophia Taylor,22/05/2025,Mortgage,,24,,28700,Unemployed,Approved
+APP00717,CUST1343,John Smith,2026/03/08,Mortgage,,48,,,,Rejected
+APP00225,CUST1707,Michael Smith,12-15-2023,Car Loan,76763,,5.38,,,
+APP00493,CUST2211,Daniel Brown,09/10/2024, Business Loan ,,36,,72704,Unemployed,Rejected
+APP00326,CUST1359,,30-Jan-2026,Education Loan,,,,69390,,Approved
